@@ -260,6 +260,13 @@ header[role="banner"] h1 {
 
 /* 9.NAVIGATION */
 /* 10.CONTENT */
+.content .map iframe{
+  height: 250px;
+}
+
+.content .streetview{
+  display: none;
+}
 /* 11.MAIN */
 
 div[role="main"] ul{
@@ -521,6 +528,13 @@ header[role="banner"] h1 {
 }
 /* 9.NAVIGATION */
 /* 10.CONTENT */
+.content .map iframe{
+  height: 350px;
+}
+
+.content .streetview{
+  display: block;
+}
 /* 11.MAIN */
 div[role="main"]{
   float:left;
