@@ -61,30 +61,37 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <body class="clearfix">
 
 <header role="banner" class="clearfix">
-<h1>Sheffield Ruby User Group</h1>
+<a href="/" title="ShRUG"><h1>Sheffield Ruby User Group</h1></a>
 </header>
 
 <div class="content clearfix">
   <div role="complementary">
-    <h1>Next Meeting: 9th May 2011</h1>
-    <h2>Location: The GIST Lab</h2>
+    {% assign next_meething = site.categories.meetings.first %}
+    <h1>Next Meeting:</h1>
+    <h2>{{site.categories.meetings.first.title}}</h2>
+    <h3>Date: {{site.categories.meetings.first.date | date: "%d/%m/%Y"}}</h3>
+    <h3>Location: The GIST Lab</h3>
     <p>
-      Speaker to be confirmed.
+      {{site.categories.meetings.first.content}}
     </p>
   </div>
 
   <div role="main">
-    <h1>{{ page.title }}</h1>
+    {% if page.title != null %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
     {{ content }}
   </div>
 
   <div role="complementary" class="past-events">
     <h1>Past ShRUGs</h1>
-    <ul>
+    <ol>
       {% for meeting in site.categories.meetings %}
+        {% if forloop.first ==  false %}
       <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
+        {% endif %}
       {% endfor %}
-    </ul>
+    </ol>
   </div>
 
 </div>
