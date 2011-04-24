@@ -257,6 +257,9 @@ header[role="banner"] h1 {
  padding-top: 119px;
  text-align: center;
 }
+header[role="banner"] a:hover{
+  text-decoration: none;
+}
 
 /* 9.NAVIGATION */
 /* 10.CONTENT */
@@ -286,11 +289,25 @@ div[role="complementary"] h1{
   margin-bottom: 5px;
 }
 div[role="complementary"] h2{
-  font-size: 1em;
+  font-size: 1.1em;
   color: #EEE;
 }
+div[role="complementary"] h3{
+  font-size: 1em;
+  color: #FFF;
+  margin: 0;
+}
 div[role="complementary"] p{
-  color: white;
+  color: #EEE;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.85em;
+}
+div[role="complementary"] ol li{
+  list-style: none;
+  font-size: 0.85em;
+}
+div[role="complementary"] ol li a:hover{
+  color: #DDD;
 }
 
 /* 13.CONTENTINFO */
