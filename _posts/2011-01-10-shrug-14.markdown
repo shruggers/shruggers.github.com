@@ -1,0 +1,13 @@
+---
+layout: default
+title: Social - making plans for 2011
+categories: meetings
+---
+This month's ShRUG is a social event. We're gathering together to make plans for the new year. Things on the table include:
+
+* What do the members want out of the group in 2011?
+* What sort of meetings/events should we organise in 2011?
+* Does anyone have any sessions they'd like to propose?
+
+We're going to meet in the Sheffield Tap, which is in Sheffield Station. You can get to it from outside the station, and on platform 1. Someone will be there from 6.30pm - look for geeks with laptops :-)
+
