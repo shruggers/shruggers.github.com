@@ -556,6 +556,7 @@ header[role="banner"] h1 {
 div[role="main"]{
   float:left;
   width: 57%;
+  min-height: 300px;
 }
 /* 12.COMPLIMENTARY */
 div[role="complementary"]{
