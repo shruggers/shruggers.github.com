@@ -18,7 +18,7 @@ beginners getting the chance to work through some (reasonably) simple
 examples and learn some language tricks and the more experienced
 developers get to flex their Ruby fu.
 
-Hopefully, we'll be pitching ourselves against the guys at [LRUG](http://lrug.org) and completing the same holes at the same time.
+Hopefully, we'll be pitching ourselves against the guys at [LRUG](http://lrug.org) and completing the same holes at the same time and sharing the results.
 Special thanks to [Andrew McDonough](http://www.andrewmcdonough.com/) for helping us out with the examples.
 
 So, bring your laptops and play along! We'll probably head out for [a beer](http://www.sheffieldtap.com/) afterwards.
