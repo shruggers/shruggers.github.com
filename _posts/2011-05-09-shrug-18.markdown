@@ -1,11 +1,28 @@
 ---
 layout: meetings
-title: TBC
+title: ShRUG plays Golf!
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
 ---
 
-Meeting TBC
+In parallel with [LRUG](http://lrug.org), we'll be
+playing Ruby Golf. Ruby Golf, similar to [Perl Golf](http://c2.com/cgi/wiki?PerlGolf) is "A game where one attempts to write the shortest \[..\] program to accomplish some goal."
 
+We'll be working in groups to complete a series of 'holes' to pass a
+pre-defined set of examples. At the end, the solutions will be scored,
+discussed and a winning team will be announced.
+
+This session is great for all levels of Ruby experience, with the
+beginners getting the chance to work through some (reasonably) simple
+examples and learn some language tricks and the more experienced
+developers get to flex their Ruby fu.
+
+Hopefully, we'll be pitching ourselves against the guys at [LRUG](http://lrug.org) and completing the same holes at the same time.
+Special thanks to [Andrew McDonough](http://www.andrewmcdonough.com/) for helping us out with the examples.
+
+So, bring your laptops and play along! We'll probably head out for [a beer](http://www.sheffieldtap.com/) afterwards.
+
+If you're coming, please register for a ticket at our [Eventbrite
+page](http://bit.ly/shrug18).
 
