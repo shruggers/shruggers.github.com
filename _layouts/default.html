@@ -66,15 +66,12 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
 <div class="content clearfix">
   <div role="complementary">
-    {% assign next_meething = site.categories.meetings.first %}
     <h1>Next Meeting:</h1>
-    <h2>{{site.categories.meetings.first.title}}</h2>
+    <h2><a
+        href="{{site.categories.meetings.first.url}}">{{site.categories.meetings.first.title}}</a></h2>
     <h3>Date: {{site.categories.meetings.first.date | date: "%d/%m/%Y"}}</h3>
     <h3>Location: {{site.categories.meetings.first.location}}</h3>
     <h3>Time: {{site.categories.meetings.first.time}}</h3>
-    <p>
-      {{site.categories.meetings.first.content}}
-    </p>
   </div>
 
   <div role="main">
