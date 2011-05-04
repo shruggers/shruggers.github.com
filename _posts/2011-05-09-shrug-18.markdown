@@ -7,7 +7,7 @@ location: The GIST Lab
 ---
 
 In parallel with [LRUG](http://lrug.org), we'll be
-playing Ruby Golf. Ruby Golf, similar to [Perl Golf](http://c2.com/cgi/wiki?PerlGolf) is "A game where one attempts to write the shortest \[..\] program to accomplish some goal."
+playing Ruby Golf. Ruby Golf, similar to [Perl Golf](http://c2.com/cgi/wiki?PerlGolf), is "A game where one attempts to write the shortest \[..\] program to accomplish some goal."
 
 We'll be working in groups to complete a series of 'holes' to pass a
 pre-defined set of examples. At the end, the solutions will be scored,
