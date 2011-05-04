@@ -554,15 +554,15 @@ header[role="banner"] h1 {
 }
 /* 11.MAIN */
 div[role="main"]{
-  float:left;
   width: 57%;
-  min-height: 300px;
+  float:left;
 }
 /* 12.COMPLIMENTARY */
 div[role="complementary"]{
   float: right;
   width: 40%;
   margin: 0 0 20px 0px;
+  clear: right;
 }
 /* 13.CONTENTINFO */
 footer[role="contentinfo"] ul{
