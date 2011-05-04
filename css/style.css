@@ -306,7 +306,7 @@ div[role="complementary"] ol li{
   list-style: none;
   font-size: 0.85em;
 }
-div[role="complementary"] ol li a:hover{
+div[role="complementary"] a:hover{
   color: #DDD;
 }
 
