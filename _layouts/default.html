@@ -65,7 +65,14 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 </header>
 
 <div class="content clearfix">
-  <div role="complementary">
+  <div role="complementary" class="event">
+    <h1>Next Event:</h1>
+    <h2><a
+        href="{{site.categories.events.first.url}}">{{site.categories.events.first.title}}</a></h2>
+    <h3>Date: {{site.categories.events.first.date | date: "%d/%m/%Y"}}</h3>
+    <h3>Location: {{site.categories.events.first.location}}</h3>
+    <h3>Time: {{site.categories.events.first.time}}</h3>
+    <br />
     <h1>Next Meeting:</h1>
     <h2><a
         href="{{site.categories.meetings.first.url}}">{{site.categories.meetings.first.title}}</a></h2>

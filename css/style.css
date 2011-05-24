@@ -283,6 +283,12 @@ div[role="complementary"]{
   border-bottom: 1px solid #20262D;
   margin-bottom: 10px;
 }
+div.event[role="complementary"]{
+  background-color: #BBB;
+}
+div.event[role="complementary"] h1{
+  color: rgb(211,0,0);
+}
 div[role="complementary"] h1{
   color: #C1C5CA;
   font-size: 1.3em;
