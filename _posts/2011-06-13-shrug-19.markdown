@@ -1,9 +1,24 @@
 ---
 layout: default
-title: TBC
+title: Remote Pair Programming with Ruby and the Twitter streaming API
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
 ---
 
-TBC
+Quentin Wright will be giving a talk on remote pair programming using
+screen and Skype. The talk will explain how to remote-pair effectively
+when it comes to coding and testing and describe some of the problems
+encountered as well as the benefits. It will also cover some of the
+particularly interesting parts of the app and the technologies we've
+used.
+
+"For the app we use the Twitter streaming API and EventMachine with
+RSpec for unit and integration testing. Along the way we've flirted
+with Capybara, Heroku, Resque, Redis, SCSS as well as various Twitter
+gems. We're currently using a Ubuntu linux server with a PostgreSQL
+database."
+
+For the gory details take a look at [https://github.com/ghendry/nonzero-inbox](https://github.com/ghendry/nonzero-inbox).
+
+Please sign up for a ticket on our [Eventbrite page](http://bit.ly/shrug19).
