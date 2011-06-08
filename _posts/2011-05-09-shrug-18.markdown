@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: meetings
 title: ShRUG plays Golf!
 categories: meetings
 time: 7pm to 9pm

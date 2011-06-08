@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: meetings
 title: ShRUG Ruby Newbie Day
 categories: events
 time: 9am to 5pm
