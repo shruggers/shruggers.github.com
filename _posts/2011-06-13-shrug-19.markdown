@@ -19,6 +19,4 @@ with Capybara, Heroku, Resque, Redis, SCSS as well as various Twitter
 gems. We're currently using a Ubuntu linux server with a PostgreSQL
 database."
 
-For the gory details take a look at [https://github.com/ghendry/nonzero-inbox](https://github.com/ghendry/nonzero-inbox).
-
 Please sign up for a ticket on our [Eventbrite page](http://bit.ly/shrug19).
