@@ -66,19 +66,21 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
 <div class="content clearfix">
   <div role="complementary" class="event">
+    {% comment %}
+    {% assign next_event = site.categories.events.first %}
     <h1>Next Event:</h1>
-    <h2><a
-        href="{{site.categories.events.first.url}}">{{site.categories.events.first.title}}</a></h2>
-    <h3>Date: {{site.categories.events.first.date | date: "%d/%m/%Y"}}</h3>
-    <h3>Location: {{site.categories.events.first.location}}</h3>
-    <h3>Time: {{site.categories.events.first.time}}</h3>
+    <h2><a href="{{next_event.url}}">{{next_event.title}}</a></h2>
+    <h3>Date: {{next_event.date | date: "%d/%m/%Y"}}</h3>
+    <h3>Location: {{next_event.location}}</h3>
+    <h3>Time: {{next_event.time}}</h3>
     <br />
+    {% endcomment %}
+    {% assign next_meeting = site.categories.meetings.first %}
     <h1>Next Meeting:</h1>
-    <h2><a
-        href="{{site.categories.meetings.first.url}}">{{site.categories.meetings.first.title}}</a></h2>
-    <h3>Date: {{site.categories.meetings.first.date | date: "%d/%m/%Y"}}</h3>
-    <h3>Location: {{site.categories.meetings.first.location}}</h3>
-    <h3>Time: {{site.categories.meetings.first.time}}</h3>
+    <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
+    <h3>Date: {{next_meeting.date | date: "%d/%m/%Y"}}</h3>
+    <h3>Location: {{next_meeting.location}}</h3>
+    <h3>Time: {{next_meeting.time}}</h3>
   </div>
 
   <div role="main">
@@ -95,6 +97,12 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
         {% if forloop.first ==  false %}
       <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
         {% endif %}
+      {% endfor %}
+    </ol>
+    <h1>Past events</h1>
+    <ol>
+      {% for event in site.categories.events %}
+        <li><a href="{{event.url}}">{{event.date | date: "%d/%m/%Y"}} {{event.title}}</a></li>
       {% endfor %}
     </ol>
   </div>
