@@ -1,0 +1,25 @@
+---
+layout: meetings
+title: ShRUG Summer Social
+categories: meetings
+time: 7pm to 9pm
+location: The Sheffield Tap
+---
+
+Summer's here and ShRUG's taking a holiday from the usual speakers and
+activities. We're going to meet for an informal chinwag and catch-up
+over a beer (or non-alcoholic alternative). It's a chance to come and get to know us if you've not been
+before, or get the low down on Rails 3.1 if you have. It's also a chance
+to let us know what you want to see over the next few months.
+
+The venue is [The Sheffield Tap](http://www.sheffieldtap.com/).
+Nothing's booked, but we'll try and get some tables in the back room,
+through the door on the right hand side of the bar on the platform side.
+If enough people are interested we can go for some food either before or
+afterwards. Let us know if you are.
+
+If you want to say hello before then you can catch us on
+[Twitter](http://twitter.com/ShRUGbot) or on the [Google
+Group](http://groups.google.com/group/shrug-members). Or, drop us
+an [email](mailto:shrug@jamesalmond.com) if you'll need help finding us
+on Monday. Hope to see you there!
