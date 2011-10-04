@@ -12,7 +12,7 @@ This month [Jon Rowe](http://jonrowe.co.uk/) will be running a session on Ruby B
 
 The month, October, the year 2011, the battleground, the digital seas of Ruby. This month we're playing copy cat with LRUG again and facing off against each other in a contest of computerised wit, a.k.a Battleships!
 
-Paul Battley, a.k.a threedaymonk has put together a game framework that allows Ruby bots to face-off against each other in the game of battleships, the challenge is to create yourself a bot capable of defeating it foes.
+Paul Battley, a.k.a [threedaymonk](https://twitter.com/threedaymonk) has put together a game framework that allows Ruby bots to face-off against each other in the game of battleships, the challenge is to create yourself a bot capable of defeating it foes.
 
 For those unfamiliar with the concept of battleships, each player has a 10x10 grid, and arranges upon that grid a fleet of 5 ships. Those 5 ships may be placed horizontally or vertically and are varying lengths (5,4,3,3 & 2). Players take turns at guessing where each others ships could be, noting hit and miss responses until the a players fleet is sunk.
 
@@ -31,7 +31,7 @@ too.
 
 Tickets will be available soon.
 
-You can also note your attendance on [Lanyrd](http://lanyrd.com/2011/shrug-22/) if you're that way inclined.
+You can also note your attendance on [Lanyrd](http://lanyrd.com/2011/shrug-23/) if you're that way inclined.
 
 If you want to say hello before then you can catch us on
 [Twitter](http://twitter.com/ShRUGbot) or on the [Google
