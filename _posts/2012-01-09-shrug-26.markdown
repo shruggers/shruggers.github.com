@@ -1,0 +1,25 @@
+---
+layout: meetings
+title: Speedy TDD with Rails
+categories: meetings
+time: 7pm to 9pm
+location: The GIST lab
+---
+
+
+This month [Ash Moran](http://www.patchspace.co.uk/) will be running a session on speeding up tests with Rails:
+
+"Developing high quality software rapidly requires a fast TDD loop. Ash will talk about the obstacles Rails presents and offer some advice."
+
+The venue is [The GIST lab](http://thegisthub.net/). There will be
+someone there from around 18.45. We'll head out for a drink afterwards
+too.
+
+Tickets will be available on our EventBrite page (coming soon).
+
+If you want to say hello before then you can catch us on
+[Twitter](http://twitter.com/ShRUGbot) or on the [Google
+Group](http://groups.google.com/group/shrug-members). Or, drop us
+an [email](mailto:shrug@jamesalmond.com) if you'll need help finding us
+on Monday. Hope to see you there!
+
