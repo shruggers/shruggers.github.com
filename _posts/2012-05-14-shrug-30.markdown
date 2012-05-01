@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: ShRUG Golf, the back 9 holes
+title: Ruby Golf, the back 9 holes
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
