@@ -1,0 +1,27 @@
+---
+layout: meetings
+title: ShRUG Golf, the back 9 holes
+categories: meetings
+time: 7pm to 9pm
+location: The GIST Lab
+---
+
+Following on from last year's [ShRUG event](/meetings/shrug-18/), May's ShRUG is another 9
+holes of Ruby Golf.
+
+Ruby Golf, similar to [Perl Golf](http://c2.com/cgi/wiki?PerlGolf), is "A game where one attempts to write the shortest \[..\] program to accomplish some goal."
+
+We'll be working in groups to complete a series of 'holes' to pass a
+pre-defined set of examples. At the end, the solutions will be scored,
+discussed and a winning team will be announced.
+
+This session is great for all levels of Ruby experience, with the
+beginners getting the chance to work through some (reasonably) simple
+examples and learn some language tricks and the more experienced
+developers get to flex their Ruby fu.
+
+So, bring your laptops and play along! You'll need Ruby and RSpec installed. We'll probably head out for afterwards.
+
+Tickets for the event will be available soon. Someone will be around from 18.45 if
+you're around or need help setting up for the evening.
+
