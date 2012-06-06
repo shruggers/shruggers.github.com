@@ -7,7 +7,7 @@ location: The GIST Lab
 ---
 
 
-This month's ShRUG is from [Tom Crayford](https://github.com/tcrayford).
+This month's ShRUG talk is from [Tom Crayford](https://github.com/tcrayford).
 
 
 "Well designed Rails controller methods follow very similar execution paths. Raptor is an experimental web framework designed to explode the Rails controller, reconstructing it inside the router.
