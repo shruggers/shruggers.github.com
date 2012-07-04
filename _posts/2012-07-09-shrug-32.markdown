@@ -7,7 +7,7 @@ location: The GIST Lab
 ---
 
 
-As tradition dictates, the meeting following [SRC](http://scottishrubyconference.com/) will be a retrospective of the talks or events of the conference. For those who are going, would you like to pick a talk you'd like to present/recap/summarise/critique/interpret for the next meeting?
+As tradition dictates, the meeting following [SRC](http://scottishrubyconference.com/) will be a retrospective of the talks or events of the conference. For those who went, would you like to pick a talk you'd like to present/recap/summarise/critique/interpret for the meeting?
 
 For those who can't make it to Edinburgh, is there anything you'd like to hear about? Let us know. You don't have to have been to the conference to get something out of the night!
 
