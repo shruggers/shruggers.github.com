@@ -1,0 +1,14 @@
+---
+layout: meetings
+title: TBC
+categories: meetings
+time: 7pm to 9pm
+location: The GIST Lab
+---
+
+Insert talk blurb here
+
+Tickets will soon be available on our EventBrite page. Someone will be around from 18.45 if
+you're around and we'll probably head out for a drink afterwards.
+
+
