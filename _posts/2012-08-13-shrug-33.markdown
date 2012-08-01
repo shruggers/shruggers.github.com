@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: Show and tell: Experiences working with a startup, the NHS, and building a Ruby CMS
+title: Show and tell - Experiences working with a startup, the public sector, and building a Ruby CMS
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
