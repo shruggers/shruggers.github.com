@@ -25,7 +25,7 @@ too.
 Tickets are available on our [EventBrite page](http://bit.ly/shrug1203).
 
 If you want to say hello before then you can catch us on
-[Twitter](http://twitter.com/ShRUGbot) or on the [Google
+[Twitter](http://twitter.com/sheffieldruby) or on the [Google
 Group](http://groups.google.com/group/shrug-members). Or, drop us
 an [email](mailto:shrug@jamesalmond.com) if you'll need help finding us
 on Monday. Hope to see you there!
