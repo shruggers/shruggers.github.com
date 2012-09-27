@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: RubyMotion: iOS development for Rubyists
+title: 'RubyMotion: iOS development for Rubyists'
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
