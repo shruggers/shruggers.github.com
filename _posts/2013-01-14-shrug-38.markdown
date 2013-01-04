@@ -1,0 +1,14 @@
+---
+layout: meetings
+title: Rails 4 and Ruby 2.0
+categories: meetings
+time: 6.45pm to 8.30pm
+location: The Workstation, Conference Room 2
+---
+
+This month’s ShRUG talk is from [James Almond](http://jamesalmond.com/)
+on what's coming up in Rails 4 and Ruby 2.0. More details to follow.
+
+With the [end of the GIST foundation](http://thegistfoundation.org/)
+we're changing venues to the Workstation Conference Room 2. Entry
+through the Workstation reception (not the Showroom).
