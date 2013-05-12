@@ -1,0 +1,30 @@
+---
+layout: meetings
+title: Javascript, delivering the promise with AngularJS
+categories: meetings
+time: 7pm to 8.30pm
+location: University of Sheffield Enterprise Zone, Portobello
+---
+
+This month [Colin Densem](http://www.summit360.co.uk/) will be talking on [AngularJS](http://angularjs.org/).
+
+
+"In 1995/6 a language was emerging; Javascript, bringing with it client side executable code. 
+
+A decade later, and after countless tales of insania, we get a glimpse that Javascript is past corporations interpreter spats. Dare we ask, are clients ready to execute code?
+
+Almost. That was jQuery, a turning point. But we'll be taking a peek three years on, with a look at AngularJS, a Javascript Framework; some say super heroic, and I happen to like it.
+
+We'll look at the basics, how it cleanly extends HTML, handles DOM manipulation and how to work with it beyond day one.
+
+If time permits, some gotchas and a mountain of known unknowns, what I call the fun bits."
+
+
+## Where
+
+With the help of [epiGenesys](http://www.epigenesys.co.uk), we're at the
+[Enterprise Zone](http://enterprise.shef.ac.uk/contact-us) this month.
+
+Join our [Google+ event]() to let us know you're coming.
+
+Someone will be around from 18.45 if you're around and we'll probably head out to the pub afterwards.
