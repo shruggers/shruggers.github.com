@@ -6,6 +6,9 @@ time: 7pm to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
 ---
 
+
+## NOTE: this meeting is the 20th May, not the usual 2nd week of the month slot!
+
 This month [Colin Densem](http://www.summit360.co.uk/) will be talking on [AngularJS](http://angularjs.org/).
 
 
