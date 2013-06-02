@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: ShRUG: the big debate
+title: ShRUG, the big debate
 categories: meetings
 time: 7pm to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
