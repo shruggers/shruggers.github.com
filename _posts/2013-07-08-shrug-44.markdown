@@ -1,0 +1,21 @@
+---
+layout: meetings
+title: ShRUG pub social
+categories: meetings
+time: 7pm to 8.30pm
+location: The Red Deer, Pitt St, Sheffield
+---
+
+This month will be a relaxed social event at [The Red
+Deer](http://www.red-deer-sheffield.co.uk/) (the usual post-meeting
+venue. Chat about Ruby/Rails, have something to eat, have a good catch-up or come along and say
+hello if you're new to the group. Let us know if you're coming and you
+don't know who you're looking for!
+
+
+## Where
+
+We're at the
+[The Red Deer](http://www.red-deer-sheffield.co.uk/) this month.
+
+Join our [Google+ event](https://plus.google.com/) to let us know you're coming.
