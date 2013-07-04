@@ -8,7 +8,7 @@ location: The Red Deer, Pitt St, Sheffield
 
 This month will be a relaxed social event at [The Red
 Deer](http://www.red-deer-sheffield.co.uk/) (the usual post-meeting
-venue. Chat about Ruby/Rails, have something to eat, have a good catch-up or come along and say
+venue). Chat about Ruby/Rails, have something to eat, have a good catch-up or come along and say
 hello if you're new to the group. Let us know if you're coming and you
 don't know who you're looking for!
 
