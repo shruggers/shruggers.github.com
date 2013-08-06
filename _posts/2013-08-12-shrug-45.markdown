@@ -1,0 +1,32 @@
+---
+layout: meetings
+title: Open source hack session
+categories: meetings
+time: 6.30pm to 8.30pm
+location: University of Sheffield Enterprise Zone, Portobello
+---
+
+NOTE: this month's meeting is at the earlier time of 6.30pm!
+
+
+Open source is a big part of the Ruby community. This month we're
+getting together to hack on some open source projects and give something
+back.
+
+If you've got a project you want to contribute to but don't know how,
+come along and pair with another developer. We'll also put together a
+list of bugs to fix or projects that need some developer time. If you're an experienced
+open source committer and you could lend a hand then that would be much
+appreciated.
+
+Bring a laptop and, if you have any, some ideas on things to hack on.
+
+## Where
+
+With the help of [epiGenesys](http://www.epigenesys.co.uk), we're at the
+[Enterprise Zone](http://enterprise.shef.ac.uk/contact-us) this month.
+
+Join our [Google+ event](https://plus.google.com/) to let us know you're coming.
+
+Someone will be around from 18.15 if you're around and we'll probably head out to the pub afterwards.
+
