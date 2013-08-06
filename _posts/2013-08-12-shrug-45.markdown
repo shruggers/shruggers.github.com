@@ -10,8 +10,9 @@ NOTE: this month's meeting is at the earlier time of 6.30pm!
 
 
 Open source is a big part of the Ruby community. This month we're
-getting together to hack on some open source projects and give something
-back.
+getting together to hack on some open source projects as a group and give something
+back. If you've never contributed to an ope source project before then
+now's the time to start!
 
 If you've got a project you want to contribute to but don't know how,
 come along and pair with another developer. We'll also put together a
@@ -19,7 +20,7 @@ list of bugs to fix or projects that need some developer time. If you're an expe
 open source committer and you could lend a hand then that would be much
 appreciated.
 
-Bring a laptop and, if you have any, some ideas on things to hack on.
+Bring a laptop and, if you have any, some ideas on things to hack on!
 
 ## Where
 
