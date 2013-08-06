@@ -11,7 +11,7 @@ NOTE: this month's meeting is at the earlier time of 6.30pm!
 
 Open source is a big part of the Ruby community. This month we're
 getting together to hack on some open source projects as a group and give something
-back. If you've never contributed to an ope source project before then
+back. If you've never contributed to an open source project before then
 now's the time to start!
 
 If you've got a project you want to contribute to but don't know how,
