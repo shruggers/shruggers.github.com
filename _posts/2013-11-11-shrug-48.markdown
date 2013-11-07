@@ -1,0 +1,29 @@
+---
+layout: meetings
+title: Hack Manchester Retrospective and Code Retreat
+categories: meetings
+time: 6.30pm to 8.30pm
+location: University of Sheffield Enterprise Zone, Portobello
+---
+
+This month we'll be focussing on community events. Sheffield (and
+ShRUG!) was represented really well at [Hack
+Manchester](http://www.hackmanchester.com/). The ShRUG attendees will be
+presenting their hacks and giving us some feedback about the event.
+
+
+Also, as there isn't currently an event organised in Sheffield for the
+[Global Day of Code Retreat](http://globalday.coderetreat.org/), we'll
+be putting on a mini Code Retreat (or code-retreat-style event for those
+who are sticklers for the rules) which will be facilitated by Eva.
+
+## Where
+
+With the help of [epiGenesys](http://www.epigenesys.co.uk), we're at the
+[Enterprise Zone](http://enterprise.shef.ac.uk/contact-us) this month.
+
+Join our [Google+
+event](https://plus.google.com) to let us know you're coming.
+
+Someone will be around from 18.15 if you're around and we'll probably head out to the pub afterwards.
+
