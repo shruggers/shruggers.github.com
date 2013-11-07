@@ -15,7 +15,9 @@ presenting their hacks and giving us some feedback about the event.
 Also, as there isn't currently an event organised in Sheffield for the
 [Global Day of Code Retreat](http://globalday.coderetreat.org/), we'll
 be putting on a mini Code Retreat (or code-retreat-style event for those
-who are sticklers for the rules) which will be facilitated by Eva.
+who are sticklers for the rules) which will be facilitated by Eva. Bring
+a laptop if you can. We'll pair people off, do if you're new to Ruby
+then this could be a good opporutnity to brush up on your skills.
 
 ## Where
 
