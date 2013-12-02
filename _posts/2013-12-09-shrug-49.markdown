@@ -1,0 +1,14 @@
+---
+layout: meetings
+title: ShRUG festive meal
+categories: meetings
+time: TBC to Late
+location: TBC
+---
+
+It's that time of the year again. Time to put the talks and workshops to
+one side for a month and get together for ShRUG's annual Christmas meal.
+
+We're currently voting on where to go. Got any ideas or want to let us
+know your preference then [fill in the
+form](https://docs.google.com/forms/d/1J_8o9jvF2-6hPW0_088JNWtr72tDF1779-okGWf5KC8/viewform).
