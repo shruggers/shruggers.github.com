@@ -2,13 +2,17 @@
 layout: meetings
 title: ShRUG festive meal
 categories: meetings
-time: TBC to Late
-location: TBC
+time: 7pm to Late
+location: Ginseng Korean Restaurant
 ---
 
 It's that time of the year again. Time to put the talks and workshops to
 one side for a month and get together for ShRUG's annual Christmas meal.
 
-We're currently voting on where to go. Got any ideas or want to let us
-know your preference then [fill in the
-form](https://docs.google.com/forms/d/1J_8o9jvF2-6hPW0_088JNWtr72tDF1779-okGWf5KC8/viewform).
+This year we're going to [Ginseng Korean
+Restaurant](http://www.ginsengsheffield.co.uk/) for 7pm.
+
+We'll be booking a table, so be sure to let us know that you're coming
+so we have confirmed numbers by responding on the Google+ Page or
+[dropping us an email](mailto:shrug@jamesalmond.com) or [Tweet
+us](http://twitter.com/sheffieldruby).
