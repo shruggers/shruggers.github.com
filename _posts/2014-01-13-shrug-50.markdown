@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: Ruby Code Battle: the rematch
+title: Ruby Code Battle -  the rematch
 categories: meetings
 time: 6.30 to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
