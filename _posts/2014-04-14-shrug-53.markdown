@@ -1,0 +1,26 @@
+---
+layout: meetings
+title: Controlling state with finite_machine.rb
+categories: meetings
+time: 6.30 to 8.30pm
+location: University of Sheffield Enterprise Zone, Portobello
+---
+
+This month [Piotr Murach](https://github.com/peter-murach) will be
+giving a talk on finite state machines:
+
+A finite state machine is a computational model that underpins computer
+science. Compilers use them to parse their grammars,
+communication interfaces and embedded systems would not exist without
+them. Would the code we write everyday benefit from the use of finite
+state automata? By studying the finite_machine.rb API we will discover
+the enticing world of states, transitions and see what good comes out
+it.
+
+With the help of [epiGenesys](http://www.epigenesys.org.uk/) we’re at the [Enterprise Zone](http://enterprise.shef.ac.uk/about-us) this month.
+
+Join our [Google+
+event](https://plus.google.com/) to let us know you're coming.
+
+Someone will be around from 18.15 if we'll head out for a drink afterwards in [The Red
+Deer](http://www.red-deer-sheffield.co.uk/).
