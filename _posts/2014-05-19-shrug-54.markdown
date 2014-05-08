@@ -6,11 +6,11 @@ time: 6.30 to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
 ---
 
-NOTE: this month's meeting is a week later than usual
+## ** This month's meeting is a week later than usual **
 
 This month a number of the ShRUGgers will be heading up to Crief for the
 [Scottish Ruby Conference](http://2014.scottishrubyconference.com/) on
-the usual ShRUG slot o we're pushing it back a week.
+the usual ShRUG slot so we're pushing it back a week.
 
 This month's meeting will be a retrospective of the conference, with
 some of the attendees looking back and presenting the key points from
