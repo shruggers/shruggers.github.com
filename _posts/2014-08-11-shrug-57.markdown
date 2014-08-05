@@ -1,0 +1,14 @@
+---
+layout: meetings
+title: Summer social
+categories: meetings
+time: 6.30 onwards
+location: The Red Deer, Pitt Stree
+---
+
+Summer's here and the weather's too nice to sit inside and do
+presentations. Come along to [The Red Deer](http://www.red-deer-sheffield.co.uk/)
+and have some food, a cold drink, chat about Ruby, set the world to rights, and catch up
+with other ShRUGgers.
+
+See you in the beer garden, hopefully!
