@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: Ruby Code Battle -  the rematch
+title: Ruby Code Battle - the rematch
 categories: meetings
 time: 6.30 to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
@@ -17,4 +17,5 @@ Join our [Google+
 event](https://plus.google.com/events/cc6iip2ojj2s6lijda16m9cpnq8) to
 let us know you're coming.
 
-Someone will be around from 18.15 if you're around and we'll probably head out for a drink afterwards.
+Someone will be around from 18.15 if you're around and we'll probably head out for a drink in [The Red
+Deer](http://www.red-deer-sheffield.co.uk/) afterwards.
