@@ -20,7 +20,9 @@ along the way. You can expect some musings and reflections on approaches to
 testing and software architecture and maybe some hawaiian shirts.
 
 ![Sporting the hawaiian look at GDS](https://pbs.twimg.com/media/A7vBY2VCMAAsDmb.jpg)
+
 Photo: Neil Williams (product manager), David Heath (developer), Pete Herlihy (delivery manager) celebrate the first departments going live on GOV.UK
+
 ​[Source: (from @JanetHughes)](https://twitter.com/JanetHughes/status/269021235399241730)
 
 David Heath works as a software developer at the Government Digital Service in
