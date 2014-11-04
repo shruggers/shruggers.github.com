@@ -1,0 +1,27 @@
+---
+layout: meetings
+title: Designing a Learning Experience for Applied Computing
+categories: meetings
+time: 6.00 to 8.00
+location: Sheffield Technology Parks
+---
+
+This month is a break from the usual talk schedule to get involved with
+the wider Sheffield tech scene and give some input on how future
+developers with learn. We're encouraging Sheffield's Rubyists to attend
+[a series of
+workshops](http://learning.mundojumbo.net/2014/designing-a-learning-experience-for-applied-computing/) on defining a curriculum for the city's new
+University Technical College:
+
+> Sheffield’s second University Technical College (UTC) has been given
+> the green light. It will specialise in Applied Computing and Human
+> Sciences, opening its doors to 14-19 year olds in September 2016.
+
+> Over the next few weeks we’ll be hosting a series of public workshops
+> in Sheffield to help us define a flexible and progressive curriculum
+> framework and learning experience that is industry-driven.  We’ll test
+> how your recommendations and suggestions might fit together, and drill
+> into the detail of real business priorities that will shape the
+> curriculum development recommendations.
+
+[More details](http://learning.mundojumbo.net/2014/designing-a-learning-experience-for-applied-computing/) and [sign up to attend](http://learning.mundojumbo.net/2014/designing-a-learning-experience-for-applied-computing/).
