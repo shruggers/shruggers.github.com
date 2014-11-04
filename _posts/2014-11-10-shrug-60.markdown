@@ -8,7 +8,7 @@ location: Sheffield Technology Parks
 
 This month is a break from the usual talk schedule to get involved with
 the wider Sheffield tech scene and give some input on how future
-developers with learn. We're encouraging Sheffield's Rubyists to attend
+developers will learn. We're encouraging Sheffield's Rubyists to attend
 [a series of
 workshops](http://learning.mundojumbo.net/2014/designing-a-learning-experience-for-applied-computing/) on defining a curriculum for the city's new
 University Technical College:
