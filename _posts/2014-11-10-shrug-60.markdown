@@ -3,7 +3,7 @@ layout: meetings
 title: Designing a Learning Experience for Applied Computing
 categories: meetings
 time: 6.00 to 8.00
-location: Sheffield Technology Parks
+location: TBC
 ---
 
 This month is a break from the usual talk schedule to get involved with
