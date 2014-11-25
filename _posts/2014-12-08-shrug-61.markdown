@@ -2,7 +2,7 @@
 layout: meetings
 title: Sheffield Ruby Christmas Meal
 categories: meetings
-time: 6.00 to 8.00
+time: 19.00 to Late
 location: Anchorage Bar
 ---
 
