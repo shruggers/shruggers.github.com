@@ -7,10 +7,10 @@ location: University of Sheffield Enterprise Zone, Portobello
 ---
 
 
-Elixir is a pragmatic approach to functional programming. It values its functional foundations and it focuses on 
+*Elixir is a pragmatic approach to functional programming. It values its functional foundations and it focuses on 
 developer productivity. Concurrency is the backbone of Elixir software. As garbage collection once freed developers 
 from the shackles of memory management, Elixir is here to free you from antiquated concurrency mechanisms and bring 
-you joy when writing concurrent code. <cite> Dave Thomas, Programming Elixir </cite>
+you joy when writing concurrent code.* - **Dave Thomas, Programming Elixir**
 
 The focus on developer productivity in Elixir's design is what I think will appeal most to Rubyists. There are many 
 functional languages out there that come with an intimidating barrier of academic terminology, features that might be 
@@ -22,12 +22,9 @@ Erlang VM gives us features like pattern matching, declarative control flow, and
 Bring along a laptop with [Elixir](http://elixir-lang.org/install.html) installed to take part in a demo of the
  Erlang VM's distributed, concurrent model.
 
----
+**Daniel King is a web developer, working mainly with Rails and currently learning Android development. He once met Matz 
+at a beach party in Barcelona and will take any chance he can get to brag about it.**
 
-Daniel King is a web developer, working mainly with Rails and currently learning Android development. He once met Matz 
-at a beach party in Barcelona and will take any chance he can get to brag about it.
-
----
 
 With the help of [epiGenesys](http://www.epigenesys.org.uk/) we’re at the [Enterprise Zone](http://enterprise.shef.ac.uk/about-us) 
 this month.
