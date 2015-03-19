@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: Introducing Docker: lets build a Rails container!
+title: Introducing Docker - lets build a Rails container!
 categories: meetings
 time: 6.30 to 8.30pm
 location: University of Sheffield Enterprise Zone, Portobello
