@@ -1,0 +1,12 @@
+<dl class='inline'>
+  <dt>Date:</dt>
+  <dd>{{meeting_details.date | date: "%d/%m/%Y"}}</dd>
+
+  {% assign meeting_location = meeting_details.location %}
+  {% assign meeting_link = "false" %}
+  <dt>Location:</dt>
+  <dd>{% include meeting_location.html %}</dd>
+
+  <dt>Time:</dt>
+  <dd>{{meeting_details.time}}</dd>
+</dl>

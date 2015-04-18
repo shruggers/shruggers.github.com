@@ -31,6 +31,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <!-- For all browsers -->
 <link rel="stylesheet" href="/css/style.css?v=1">
 <link rel="stylesheet" href="/css/shrug.css?v=1">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 <!-- JavaScript at bottom except for Modernizr -->
 <script src="/js/libs/modernizr-1.7.min.js"></script>
@@ -79,11 +80,16 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
     <h1>Next meeting:</h1>
     {% if next_meeting %}
       <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
-      <h3>Date: {{next_meeting.date | date: "%d/%m/%Y"}}</h3>
-      {% assign meeting_location = next_meeting.location %}
-      {% assign meeting_link = "false" %}
-      <h3>Location: {% include meeting_location.html %}</h3>
-      <h3>Time: {{next_meeting.time}}</h3>
+      {% assign meeting_details = next_meeting %}
+      {% include meeting_details.html %}
+      {% if next_meeting.meetup %}
+        <div class='meetup'>
+          Coming?
+          <a href="http://www.meetup.com/sheffieldrubyists/events/{{ next_meeting.meetup }}/">
+            Register your interest on Meetup <span class="fa fa-external-link">
+          </a>
+        </div>
+      {% endif %}
     {% else %}
       <h2>Details of our next meeting are coming soon.</h2>
       <p>Keep an eye on <a href="http://twitter.com/sheffieldruby">@sheffieldruby</a> for more details!</p>
@@ -92,7 +98,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
   <div role="main">
     {% if page.title != null %}
-      <h1>{{ page.title }}</h1>
+      <h2>{{ page.title }}</h2>
     {% endif %}
     {{ content }}
   </div>

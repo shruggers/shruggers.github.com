@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<h3>Date: {{ page.date | date: "%d/%m/%Y" }}</h3>
-{% assign meeting_location = page.location %}
-<h3>Location: {% include meeting_location.html %}</h3>
-<h3>Time: {{ page.time }}</h3>
+
+<div class="meeting-details">
+  {% assign meeting_details = page %}
+  {% include meeting_details.html %}
+</div>
 
 {% if page.meetup %}
 <h3><a href="http://www.meetup.com/sheffieldrubyists/events/{{ page.meetup }}/">Join us on Meetup</a></h3>
