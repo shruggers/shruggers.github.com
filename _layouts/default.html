@@ -100,11 +100,14 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <div role="complementary" class="past-events">
     <h1>Past ShRUGs</h1>
     <ol>
-      {% for meeting in site.categories.meetings limit: 5  %}
+      {% assign past_meeting_count = 1 %}
+      {% for meeting in site.categories.meetings  %}
         {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
         {% if meeting_date < site_date %}
+          {% assign past_meeting_count = past_meeting_count | plus: 1 %}
           <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
         {% endif %}
+        {% if past_meeting_count > 5 %}{% break %}{% endif %}
       {% endfor %}
       <li class="past-link"><a href="/meetings/">View all past ShRUGs</a></li>
     </ol>
