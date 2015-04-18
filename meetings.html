@@ -2,11 +2,11 @@
 layout: default
 permalink: /meetings/
 ---
+{% capture site_date %}{{ site.time | date: '%d/%m/%Y' | date: '%s' }}{% endcapture %}
 
 {% for meeting in site.categories.meetings %}
   {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
-  {% capture site_time %}{{ site.time | date: '%s' }}{% endcapture %}
-  {% if meeting_date < site_time %}
+  {% if meeting_date < site_date %}
     {% capture this_year %}{{ meeting.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ meeting.previous.date | date: "%Y" }}{% endcapture %}
 
