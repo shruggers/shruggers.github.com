@@ -1,9 +1,10 @@
 ---
 layout: meetings
 title: ShRUG Ruby Newbie Day
-categories: events
+categories: meetings
 time: 9am to 5pm
 location: The GIST Lab
+permalink: /events/ruby-newbie-day/
 ---
 A desktop programmer that wants to get into web development? A web designer that wants to add more functionality to their website? Heard all about Rails? The Sheffield Ruby User Group (ShRUG) are putting on a Ruby Newbie day on Sat 11 June. We'll be in the GIST Lab for a whole day giving presentations, advice and providing hands-on experience with Ruby and Ruby on Rails.
 
