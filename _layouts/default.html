@@ -65,23 +65,29 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <a href="/" title="ShRUG"><h1>Sheffield Ruby User Group</h1></a>
 </header>
 
+{% capture site_date %}{{ site.time | date: '%d/%m/%Y' | date: '%s' }}{% endcapture %}
+
 <div class="content clearfix">
   <div role="complementary" class="event">
-    {% comment %}
-    {% assign next_event = site.categories.events.first %}
-    <h1>Next Event:</h1>
-    <h2><a href="{{next_event.url}}">{{next_event.title}}</a></h2>
-    <h3>Date: {{next_event.date | date: "%d/%m/%Y"}}</h3>
-    <h3>Location: {{next_event.location}}</h3>
-    <h3>Time: {{next_event.time}}</h3>
-    <br />
-    {% endcomment %}
-    {% assign next_meeting = site.categories.meetings.first %}
-    <h1>Next Meeting:</h1>
-    <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
-    <h3>Date: {{next_meeting.date | date: "%d/%m/%Y"}}</h3>
-    <h3>Location: {{next_meeting.location}}</h3>
-    <h3>Time: {{next_meeting.time}}</h3>
+    {% for meeting in site.categories.meetings reversed limit: 5 %}
+      {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
+      {% if meeting_date >= site_date %}
+        {% assign next_meeting = meeting %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    <h1>Next meeting:</h1>
+    {% if next_meeting %}
+      <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
+      <h3>Date: {{next_meeting.date | date: "%d/%m/%Y"}}</h3>
+      {% assign meeting_location = next_meeting.location %}
+      {% assign meeting_link = "false" %}
+      <h3>Location: {% include meeting_location.html %}</h3>
+      <h3>Time: {{next_meeting.time}}</h3>
+    {% else %}
+      <h2>Details of our next meeting are coming soon.</h2>
+      <p>Keep an eye on <a href="http://twitter.com/sheffieldruby">@sheffieldruby</a> for more details!</p>
+    {% endif %}
   </div>
 
   <div role="main">
@@ -96,21 +102,12 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
     <ol>
       {% for meeting in site.categories.meetings limit: 5  %}
         {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
-        {% capture site_time %}{{ site.time | date: '%s' }}{% endcapture %}
-        {% if meeting_date < site_time %}
-      <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
+        {% if meeting_date < site_date %}
+          <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
         {% endif %}
       {% endfor %}
       <li class="past-link"><a href="/meetings/">View all past ShRUGs</a></li>
     </ol>
-    {% comment %}
-    <h1>Past events</h1>
-    <ol>
-      {% for event in site.categories.events %}
-        <li><a href="{{event.url}}">{{event.date | date: "%d/%m/%Y"}} {{event.title}}</a></li>
-      {% endfor %}
-    </ol>
-    {% endcomment %}
   </div>
 
 </div>

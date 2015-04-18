@@ -1,0 +1,9 @@
+{% if meeting_location != null %}
+  {{ meeting_location }}
+{% else %}
+  {% if meeting_link == "false" %}
+    {{ site.default_location }}
+  {% else %}
+    <a href="{{ site.default_location_link }}">{{ site.default_location }}</a>, {{ site.default_location_addr }}
+  {% endif %}
+{% endif %}
