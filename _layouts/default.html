@@ -81,14 +81,12 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
     {% if next_meeting %}
       <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
       {% assign meeting_details = next_meeting %}
+      {% assign meeting_link = "false" %}
       {% include meeting_details.html %}
       {% if next_meeting.meetup %}
-        <div class='meetup'>
-          Coming?
-          <a href="http://www.meetup.com/sheffieldrubyists/events/{{ next_meeting.meetup }}/">
-            Register your interest on Meetup <span class="fa fa-external-link">
-          </a>
-        </div>
+        <a href="http://www.meetup.com/sheffieldrubyists/events/{{ next_meeting.meetup }}/" class="button">
+          <span class="fa fa-diamond"> Register to attend on Meetup
+        </a>
       {% endif %}
     {% else %}
       <h2>Details of our next meeting are coming soon.</h2>
@@ -97,9 +95,6 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   </div>
 
   <div role="main">
-    {% if page.title != null %}
-      <h2>{{ page.title }}</h2>
-    {% endif %}
     {{ content }}
   </div>
 

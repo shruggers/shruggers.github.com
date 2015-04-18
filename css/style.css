@@ -285,6 +285,7 @@ div[role="main"] ul{
 div[role="complementary"]{
   padding: 10px;
   background-color: #272E36;
+  border-top: 1px solid #20262D;
   border-bottom: 1px solid #20262D;
   margin-bottom: 10px;
 }

@@ -2,13 +2,21 @@
 layout: default
 ---
 
+{% if page.title != null %}
+  <h2 class="meeting-title">{{ page.title }}</h2>
+{% endif %}
+
 <div class="meeting-details">
   {% assign meeting_details = page %}
   {% include meeting_details.html %}
 </div>
 
 {% if page.meetup %}
-<h3><a href="http://www.meetup.com/sheffieldrubyists/events/{{ page.meetup }}/">Join us on Meetup</a></h3>
+<div class="meetup-button">
+  <a href="http://www.meetup.com/sheffieldrubyists/events/{{ page.meetup }}/" class="button">
+    <span class="fa fa-diamond"> Register to attend on Meetup
+  </a>
+</div>
 {% endif %}
 
 {{ content }}

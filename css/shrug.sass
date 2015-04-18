@@ -11,6 +11,21 @@
   header[role="banner"] h1
     font-size: 2.3em
 
+/* Buttons
+
+.button
+  font-family: "Helvetica Neue", Helvetica, Arial
+  display: inline-block
+  color: #fff
+  background: rgb(211, 0, 0)
+  white-space: nowrap
+  padding: 9px 16px !important
+  line-height: 1.4
+  border: 0
+  position: relative
+  &:hover
+    color: #DDD
+
 /* Past events sidebar
 
 .past-events
@@ -29,6 +44,8 @@
     margin-bottom: 0px
   h2, p
     color: #fff !important
+  h2, dl
+    margin-bottom: 15px
 
 /* Description lists
 
@@ -38,15 +55,12 @@ dl
   dt
     font-weight: bold
   &.inline
-    dd
-      display: inline
-      margin: 0
-      &:after
-        display: block
-        content: ''
     dt
-      display: inline-block
-      min-width: 90px
+      float: left
+    dd
+      display: block
+      padding-left: 90px
+      margin: 0px
 
 /* Meetings list
 
@@ -55,6 +69,12 @@ dl
 
 .meeting-details dl
   font-size: 1.2em
+  margin-bottom: 15px
+  dd
+    padding-left: 100px
+
+.meetup-button, .meeting-title
+  margin-bottom: 15px
 
 /* Footer
 
@@ -62,8 +82,8 @@ footer
   font-family: "Helvetica Neue", Helvetica, Arial
   dl
     margin-bottom: 0px
-  ul#links dl.inline dt
-    min-width: 120px
+  ul#links dl.inline dd
+    padding-left: 120px
   dl
     dt, dd
       font-size: 0.9em
