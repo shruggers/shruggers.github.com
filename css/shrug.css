@@ -53,3 +53,16 @@ dl.inline dt {
 .meeting-details dl {
   font-size: 1.2em;
 }
+
+/* Footer */
+footer dl {
+  margin-bottom: 0px;
+}
+
+footer ul#links dl.inline dt {
+  min-width: 120px;
+}
+
+footer dl dt, footer dl dd {
+  font-size: 0.9em;
+}
