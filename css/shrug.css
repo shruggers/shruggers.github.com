@@ -2,11 +2,23 @@
   margin-bottom: 0px;
 }
 
+.past-events ol li {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
 .past-events li.past-link {
   margin-top: 1em;
   font-weight: bold;
 }
 
 .event p:last-child {
+  margin-bottom: 0px;
+}
+
+.event h2, .event p {
+  color: #fff !important;
+}
+
+.meetings .meeting-date {
   margin-bottom: 0px;
 }

@@ -4,22 +4,24 @@ permalink: /meetings/
 ---
 {% capture site_date %}{{ site.time | date: '%d/%m/%Y' | date: '%s' }}{% endcapture %}
 
-{% for meeting in site.categories.meetings %}
-  {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
-  {% if meeting_date < site_date %}
-    {% capture this_year %}{{ meeting.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ meeting.previous.date | date: "%Y" }}{% endcapture %}
+<div class="meetings">
+  {% for meeting in site.categories.meetings %}
+    {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
+    {% if meeting_date < site_date %}
+      {% capture this_year %}{{ meeting.date | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ meeting.previous.date | date: "%Y" }}{% endcapture %}
 
-    {% if forloop.first %}
-      <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+      {% if forloop.first %}
+        <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+      {% endif %}
+
+      <h4 class="meeting-date">{{meeting.date | date: "%d/%m/%Y"}}</h3>
+      <h4 class="meeting-title"><a href="{{meeting.url}}">{{meeting.title}}</a></h4>
+      <p>{{ meeting.excerpt | strip_html }}</p>
+
+      {% if this_year != next_year %}
+        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+      {% endif %}
     {% endif %}
-
-    <h3>{{meeting.date | date: "%d/%m/%Y"}}</h3>
-    <h4><a href="{{meeting.url}}">{{meeting.title}}</a></h4>
-    <p>{{ meeting.excerpt | strip_html }}</p>
-
-    {% if this_year != next_year %}
-      <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-    {% endif %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>
