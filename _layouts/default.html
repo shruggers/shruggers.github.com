@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-<!-- 
+<!--
 320 and Up boilerplate extension
 Author: Andy Clarke
 Version: 0.9b
-URL: http://stuffandnonsense.co.uk/projects/320andup 
+URL: http://stuffandnonsense.co.uk/projects/320andup
 -->
 
 <!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
@@ -30,6 +30,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/css/style.css?v=1">
+<link rel="stylesheet" href="/css/shrug.css?v=1">
 
 <!-- JavaScript at bottom except for Modernizr -->
 <script src="/js/libs/modernizr-1.7.min.js"></script>
@@ -93,18 +94,23 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <div role="complementary" class="past-events">
     <h1>Past ShRUGs</h1>
     <ol>
-      {% for meeting in site.categories.meetings %}
-        {% if forloop.first ==  false %}
+      {% for meeting in site.categories.meetings limit: 5  %}
+        {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
+        {% capture site_time %}{{ site.time | date: '%s' }}{% endcapture %}
+        {% if meeting_date < site_time %}
       <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
         {% endif %}
       {% endfor %}
+      <li class="past-link"><a href="/meetings/">View all past ShRUGs</a></li>
     </ol>
+    {% comment %}
     <h1>Past events</h1>
     <ol>
       {% for event in site.categories.events %}
         <li><a href="{{event.url}}">{{event.date | date: "%d/%m/%Y"}} {{event.title}}</a></li>
       {% endfor %}
     </ol>
+    {% endcomment %}
   </div>
 
 </div>
@@ -116,11 +122,11 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   </ul>
   <ul id="rugs">
     <li class="title">RUGs</li>
-    <li><a href="http://nwrug.org/">nwrug</a> • manchester</li>
     <li><a href="http://leedsrubything.org/">leeds ruby thing</a> • leeds</li>
-    <li><a href="http://www.wmrug.org/">wmrug</a> • wolverhampton</li>
+    <li><a href="http://nwrug.org/">nwrug</a> • manchester</li>
+    <li><a href="http://www.rubyside.co.uk/">rubyside</a> • liverpool</li>
     <li><a href="http://lrug.org/">lrug</a> • london</li>
-    <li><a href="http://rubyists.eu/">rubyists in europe</a></li>
+
     <li><a href="http://www.rubyusergroups.org/">rubyusergroups.org</a></li>
   </ul>
   <ul id="links" class="last">
@@ -148,14 +154,5 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <script src="js/libs/respond.min.js"></script>
 <![endif]-->
 
-<!-- http://t.co/HZe9oJ4 -->
-<script>
-var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
-(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-s.parentNode.insertBefore(g,s)}(document,'script'));
-</script>
-<noscript>Your browser does not support JavaScript!</noscript>
 </body>
 </html>
-

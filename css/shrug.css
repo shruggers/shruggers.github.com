@@ -1,0 +1,8 @@
+.past-events ol {
+  margin-bottom: 0px;
+}
+
+.past-events li.past-link {
+  margin-top: 1em;
+  font-weight: bold;
+}
