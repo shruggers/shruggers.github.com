@@ -252,15 +252,15 @@ background-color : transparent; }
 /* 8.BANNER */
 
 header[role="banner"] h1 {
- color: #272E36;
- background-color: transparent;
- background-image: url(/img/shrug-logo-transparent-rectangular.png);
- background-size: auto;
- background-position: center top;
- background-repeat: no-repeat;
- padding-top: 100px;
- margin-bottom: 20px;
- text-align: center;
+  color: #272E36;
+  background-color: transparent;
+  background-image: url(/img/shrug-logo-transparent-rectangular.png);
+  background-size: auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 header[role="banner"] a:hover{
   text-decoration: none;
@@ -516,8 +516,7 @@ page-break-after : avoid; }
 /* 1.ROOT */
 /* 2.HEADINGS */
 header[role="banner"] h1 {
- background-size: 100%;
- padding-top: 119px;
+  background-size: 100%;
 }
 
 /* 3.TYPOGRAPHY */
