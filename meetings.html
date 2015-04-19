@@ -5,13 +5,15 @@ permalink: /meetings/
 {% capture site_date %}{{ site.time | date: '%d/%m/%Y' | date: '%s' }}{% endcapture %}
 
 <div class="meetings">
+  {% assign meeting_count = 0 %}
   {% for meeting in site.categories.meetings %}
     {% capture meeting_date %}{{ meeting.date | date: '%s' }}{% endcapture %}
     {% if meeting_date < site_date %}
       {% capture this_year %}{{ meeting.date | date: "%Y" }}{% endcapture %}
       {% capture next_year %}{{ meeting.previous.date | date: "%Y" }}{% endcapture %}
+      {% assign meeting_count = meeting_count | plus: 1 %}
 
-      {% if forloop.first %}
+      {% if meeting_count == 1 %}
         <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
       {% endif %}
 
