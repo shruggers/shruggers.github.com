@@ -3,8 +3,11 @@
   <dd>{{meeting_details.date | date: "%d/%m/%Y"}}</dd>
 
   {% assign meeting_location = meeting_details.location %}
+  {% assign meeting_link = meeting_details.location_link %}
+  {% assign meeting_addr = meeting_details.location_addr %}
+  {% capture location %}{% include meeting_location.html %}{% endcapture %}
   <dt>Location:</dt>
-  <dd>{% include meeting_location.html %}</dd>
+  <dd>{{ location | strip_newlines }}</dd>
 
   <dt>Time:</dt>
   <dd>{{meeting_details.time}}</dd>

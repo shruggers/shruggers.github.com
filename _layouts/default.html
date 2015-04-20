@@ -29,8 +29,8 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <link rel="stylesheet" media="handheld" href="css/handheld.css?v=1">  -->
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/css/style.css?v=1">
-<link rel="stylesheet" href="/css/shrug.css?v=1">
+<link rel="stylesheet" href="/css/320andup.css?{{ site.time | date: '%s' }}">
+<link rel="stylesheet" href="/css/shrug.css?{{ site.time | date: '%s' }}">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 <!-- JavaScript at bottom except for Modernizr -->
@@ -77,11 +77,12 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
         {% break %}
       {% endif %}
     {% endfor %}
-    <h1>Next meeting:</h1>
+    <h2>Next meeting:</h2>
     {% if next_meeting %}
-      <h2><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h2>
+      <h3><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h3>
       {% assign meeting_details = next_meeting %}
-      {% assign meeting_link = "false" %}
+      {% assign show_addr = false %}
+      {% assign show_link = false %}
       {% include meeting_details.html %}
       {% if next_meeting.meetup %}
         <a href="http://www.meetup.com/sheffieldrubyists/events/{{ next_meeting.meetup }}/" class="button">
@@ -89,7 +90,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
         </a>
       {% endif %}
     {% else %}
-      <h2>Details of our next meeting are coming soon.</h2>
+      <h3>Details of our next meeting are coming soon.</h3>
       <p>Keep an eye on <a href="http://twitter.com/sheffieldruby">@sheffieldruby</a> for more details!</p>
     {% endif %}
   </div>
@@ -99,7 +100,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   </div>
 
   <div role="complementary" class="past-events">
-    <h1>Past ShRUGs</h1>
+    <h2>Past ShRUGs</h2>
     <ol>
       {% assign past_meeting_count = 1 %}
       {% for meeting in site.categories.meetings  %}

@@ -1,9 +1,7 @@
-{% if meeting_location != null %}
-  {{ meeting_location }}
-{% else %}
-  {% if meeting_link == "false" %}
-    {{ site.default_location }}
-  {% else %}
-    <a href="{{ site.default_location_link }}">{{ site.default_location }}</a>, {{ site.default_location_addr }}
-  {% endif %}
-{% endif %}
+{% capture location %}{% if meeting_location != null %}{{ meeting_location }}{% else %}{{ site.default_location }}{% endif %}{% endcapture %}
+{% capture addr %}{% if meeting_location != null %}{{ meeting_addr }}{% else %}{{ site.default_location_addr }}{% endif %}{% endcapture %}
+{% capture link %}{% if meeting_location != null %}{{ meeting_link }}{% else %}{{ site.default_location_link }}{% endif %}{% endcapture %}
+{% capture start_link %}{% if link != null and show_link != false %}<a href="{{ link }}">{% endif %}{% endcapture %}
+{% capture end_link %}{% if link != null and show_link != false %}</a>{% endif %}{% endcapture %}
+{% capture addr_content %}{% if show_addr != false %}, {{ addr }}{% endif %}{% endcapture %}
+{{ start_link }}{{ location }}{{ end_link }}{{ addr_content }}
