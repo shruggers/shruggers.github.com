@@ -12,11 +12,8 @@ layout: default
 </div>
 
 {% if page.meetup %}
-<div class="meetup-button">
-  <a href="http://www.meetup.com/sheffieldrubyists/events/{{ page.meetup }}/" class="button">
-    <span class="fa fa-diamond"> Register to attend on Meetup
-  </a>
-</div>
+  {% assign meetup_id = page.meetup %}
+  {% include meetup_button.html %}
 {% endif %}
 
 {{ content }}

@@ -85,9 +85,8 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
       {% assign show_link = false %}
       {% include meeting_details.html %}
       {% if next_meeting.meetup %}
-        <a href="http://www.meetup.com/sheffieldrubyists/events/{{ next_meeting.meetup }}/" class="button">
-          <span class="fa fa-diamond"> Register to attend on Meetup
-        </a>
+        {% assign meetup_id = next_meeting.meetup %}
+        {% include meetup_button.html %}
       {% endif %}
     {% else %}
       <h3>Details of our next meeting are coming soon.</h3>
