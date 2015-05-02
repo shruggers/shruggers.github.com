@@ -108,7 +108,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
           {% assign past_meeting_count = past_meeting_count | plus: 1 %}
           <li><a href="{{meeting.url}}">{{meeting.date | date: "%d/%m/%Y"}} {{meeting.title}}</a></li>
         {% endif %}
-        {% if past_meeting_count > 5 %}{% break %}{% endif %}
+        {% if past_meeting_count > 10 %}{% break %}{% endif %}
       {% endfor %}
       <li class="past-link"><a href="/meetings/">View all past ShRUGs</a></li>
     </ol>
@@ -144,7 +144,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
     <li>
       <dl class="inline">
         <dt>Organised by:</dt>
-        <dd><a href="http://jamesalmond.com/">James Almond</a></dd>
+        <dd><a href="http://twitter.com/b_seven_e">Eve&nbsp;Barabas</a>, <a href="http://jamesalmond.com/">James&nbsp;Almond</a> and <a href="http://twitter.com/jamgregory">James&nbsp;Gregory</a></dd>
         <dt>Site by:</dt>
         <dd>James Almond</dd>
         <dt>ShRUG logo by:</dt>
