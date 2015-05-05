@@ -15,7 +15,7 @@ Have you found that as a Ruby developer that you have picked up RSpec or Test Un
 
 Richard McIntyre is Ruby developer and agile testing coach who is currently contracted to Sky Technology in Leeds.
 
-Paul Lemon, head of Sky Service Digital team, will be introducing Richard's talk and telling us a little bit about Sky's digital centre over in Leeds.
+Paul Lemon, head of Sky Service Digital team, will be introducing Richard's talk, telling us a little bit about Sky's digital centre over in Leeds and how they're implementing Spotify tribes and squads in their agile teams.
 
 ### Tonight's meeting is sponsored by Sky Technology
 
