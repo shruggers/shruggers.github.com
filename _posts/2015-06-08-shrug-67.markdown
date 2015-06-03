@@ -1,0 +1,19 @@
+---
+layout: meetings
+title: Summer social
+categories: meetings
+time: 6.30 to 8.30pm
+meetup: 222969318
+published: true
+location: Rutland Arms
+location_addr:  86 Brown Street, Sheffield, S1 2BS
+location_link: https://www.google.co.uk/maps/place/Rutland+Arms/@53.376508,-1.467493,15z
+---
+
+### Time for some sun, drinks, food and chat!
+
+##### *(That's the plan anyway!)*
+
+Summer is on the way (hopefully!) so it's time for our summer social.
+
+Come and join us in the Rutland Arms for a few drinks, some food, a good chat about all things Ruby, Rails, tech, etc., and hopefully some nice weather so we can enjoy the beer garden!
