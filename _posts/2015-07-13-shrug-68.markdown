@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: OpenSteetMap(OSM) and Geospacial Ruby
+title: OpenSteetMap (OSM) and geospatial Ruby
 categories: meetings
 time: 6.30 to 8.00pm
 meetup: 223695812
@@ -19,6 +19,8 @@ Tim Waters ([@tim_waters](https://twitter.com/tim_waters)) is a geospatial Ruby 
 
 He has worked with several institutions as managing partner of Topomancy LLC including the Library of Congress and the New York Public Library, and as a freelancer with humanitarian and history startups.
 
+- - -
+
 ### Bonus round - The surgery: BYO Ruby problem
 
-We are trialling out a new end of a session format where you can bring a problem to the table, and the community will try to help you out with it. If you don't have a problem, that's OK - bring your own ideas to help solve other people's problems. 
+We are trialling out a new end of a session format where you can bring a problem to the table, and the community will try to help you out with it. If you don't have a problem, that's OK - bring your own ideas to help solve other people's problems.
