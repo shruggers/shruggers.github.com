@@ -2,7 +2,7 @@
 layout: meetings
 title: ShRUG in the pub
 categories: meetings
-time: 6.30 to 8.00pm
+time: 6.30 to 9.00pm
 meetup: 224471170
 published: true
 location: Red Deer
