@@ -20,4 +20,4 @@ Finally, you may want headphones. It might get loud.
 
 #### About our speaker
 
-Alex Lynham ([@hipsters_unite](http://twitter.com/hipsters_unite)) works in Ruby on Rails and Clojure by day, but is also a freelance music journalist and photographer.
+Alex ([@hipsters_unite](http://twitter.com/hipsters_unite)) is a professional rubyist, amateur guitarist and occasional live-coder. In addition to writing code and performing music, he likes to write about himself in the third-person. It's becoming quite a problem.
