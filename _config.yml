@@ -2,3 +2,6 @@ permalink: /:categories/:title
 default_location: University of Sheffield Enterprise
 default_location_addr: 210 Portobello, S1 4AE
 default_location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
+url: http://shrug.org
+title: Sheffield Ruby User Group
+description: Welcome to the Sheffield Ruby User Group site. We meet on the second Monday of each month to discuss and learn about Ruby, Rails and other interesting tech/web/programming stuff.
