@@ -1,6 +1,7 @@
 ---
 layout: meetings
 title: Making music with Ruby and Sonic Pi
+excerpt: Ruby coder? Interested in composing music? Sonic Pi might be for you
 categories: meetings
 time: 6.30 to 8.30pm
 meetup: 224577738
