@@ -1,0 +1,19 @@
+---
+layout: meetings
+title: Ruby in the Wild - community edition
+excerpt: Current or future Rubyist? Come and check out some awesome examples of Ruby in the wild
+categories: meetings
+time: 6.30 to 8.30pm
+meetup: 225841841
+published: true
+---
+
+### Ruby in the Wild - community edition
+
+As a fresh graduate from a prestigious university, as far as career opportunities were concerned the choices were great. I worked with vInspired, a national volunteering opportunity provider; BigSofa, a vid-tech consultancy; and Money Advice Service, the UK's go-to point for all-money related issues and advice. Come and hear all about how Ruby on Rails is enabling companies small and big to innovate with unparalleled velocity, and how you can be part of it.
+
+This session is aimed at people learning Ruby or wanting to do so, and to see what awesome things can be achieved with it. If you are a more experienced Rubyist, come along and show/tell us what you are working on, help answer questions, talk about your own journey in "Rubyland" and maybe help inspire the next generation.
+
+#### About our speaker
+
+Jones Agyemang ([@Tr4pSt3R](http://twitter.com/Tr4pSt3R)) is a professional Rubyist, and a self-described 'lovechild of the School of Mathematics and the Department of Computer Science, University of Sheffield' graduate where he was part of Genesys and where he had his first contact with Ruby.
