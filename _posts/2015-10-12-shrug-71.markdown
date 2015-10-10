@@ -14,6 +14,10 @@ As a fresh graduate from a prestigious university, as far as career opportunitie
 
 This session is aimed at people learning Ruby or wanting to do so, and to see what awesome things can be achieved with it. If you are a more experienced Rubyist, come along and show/tell us what you are working on, help answer questions, talk about your own journey in "Rubyland" and maybe help inspire the next generation.
 
-#### About our speaker
+One of our show and tells will be MovingImages, a Mac and iOS movie editing platform where all the instructions for editing the video and audio content are described using JSON. Included as part of the MovingImages platform on the Mac is the 'moving_images' ruby gem. The ruby gem helps you to create the necessary JSON for generating and editing videos. 
+
+#### About our speakers
 
 Jones Agyemang ([@Tr4pSt3R](http://twitter.com/Tr4pSt3R)) is a professional Rubyist, and a self-described 'lovechild of the School of Mathematics and the Department of Computer Science, University of Sheffield' graduate where he was part of Genesys and where he had his first contact with Ruby.
+
+Kevin Meaney ([@CocoaKevin](http://twitter.com/CocoaKevin)) from [Zukini Software](http://zukini.eu/) will briefly describe the moving_images ruby gem and do a short demo of what you can achieve using MovingImages.
