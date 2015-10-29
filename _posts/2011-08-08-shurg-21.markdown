@@ -4,6 +4,8 @@ title: ShRUG Summer Social
 categories: meetings
 time: 7pm to 9pm
 location: The Sheffield Tap
+show_link: false
+show_addr: false
 ---
 
 Summer's here and ShRUG's taking a holiday from the usual speakers and

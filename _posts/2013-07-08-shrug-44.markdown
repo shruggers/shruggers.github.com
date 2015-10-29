@@ -3,7 +3,9 @@ layout: meetings
 title: ShRUG pub social
 categories: meetings
 time: 7pm to 8.30pm
-location: The Red Deer, Pitt St, Sheffield
+location: The Red Deer
+location_addr: Pitt St, Sheffield
+show_link: false
 ---
 
 This month will be a relaxed social event at [The Red

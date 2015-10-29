@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: ShRUG 1st Birthday Meal
+hide_location: true
 ---
 
 This month's ShRUG is the group's 1st birthday. ShRUG was originally conceived on a train back from NWRUG over a year ago, and started not long after with a meeting in the Bath Hotel. We moved around a bit before settling on the GIST Lab as our regular venue.

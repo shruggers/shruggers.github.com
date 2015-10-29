@@ -3,7 +3,9 @@ layout: meetings
 title: Tribute to Jim Weirich
 categories: meetings
 time: 6.30 to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 This month, we thought that we could pay tribute to Jim Weirich by watching some of his best talks as well as sharing some of our stories from meeting him. The session might go down the route of talking about open source as Jim was a hero when it came to this.
 

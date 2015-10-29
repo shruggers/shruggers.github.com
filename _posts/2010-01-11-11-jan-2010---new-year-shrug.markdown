@@ -2,6 +2,8 @@
 layout: default
 categories: meetings
 title: New Year ShRUG
+hide_location: true
+permalink: /meetings/shrug-2
 ---
 
 The second meeting of ShRUG is another informal pub meeting. We're trying out a new venue, Mojo.

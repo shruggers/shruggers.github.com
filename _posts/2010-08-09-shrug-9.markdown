@@ -2,7 +2,9 @@
 layout: default
 categories: meetings
 title: Introduction to RSpec part 2
+hide_location: true
 ---
+
 This month is an interactive session. Ashley Moran of [PatchSpace Ltd](http://www.patchspace.co.uk/) will be concluding the introduction to [RSpec](http://rspec.info/) we started last month.
 
 We'll be finish the Money example from Kent Beck's [Test Driven Development by Example](http://www.goodreads.com/book/show/6408726-test-driven-development-by-example).

@@ -3,7 +3,9 @@ layout: meetings
 title: ShRUG, the big debate
 categories: meetings
 time: 7pm to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 Being a programmer is about more than just writing code. We spend a lot
@@ -48,4 +50,3 @@ With the help of [epiGenesys](http://www.epigenesys.co.uk), we're at the
 Join our [Google+ event](https://plus.google.com/events/c3m6ma9or5u9golgoigm1sv2lv8) to let us know you're coming.
 
 Someone will be around from 18.45 if you're around and we'll probably head out to the pub afterwards.
-

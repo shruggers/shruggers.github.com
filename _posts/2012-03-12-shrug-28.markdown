@@ -4,6 +4,8 @@ title: Coding Dojo
 categories: meetings
 time: 7pm to 8.30pm
 location: The GIST lab
+show_link: false
+show_addr: false
 ---
 
 This month we will be running a [Coding Dojo](http://codingdojo.org/) at ShRUG.
@@ -29,6 +31,3 @@ If you want to say hello before then you can catch us on
 Group](http://groups.google.com/group/shrug-members). Or, drop us
 an [email](mailto:hello@shrug.org) if you'll need help finding us
 on Monday. Hope to see you there!
-
-
-

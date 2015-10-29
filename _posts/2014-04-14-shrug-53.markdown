@@ -3,7 +3,9 @@ layout: meetings
 title: Controlling state with finite_machine.rb
 categories: meetings
 time: 6.30 to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 This month [Piotr Murach](https://github.com/peter-murach) will be

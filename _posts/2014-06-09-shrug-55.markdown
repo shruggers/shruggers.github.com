@@ -3,7 +3,9 @@ layout: meetings
 title: What is puppet and why should I care about it?
 categories: meetings
 time: 6.30 to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 This month's talk is from Stephen Johnson and is on Puppet:

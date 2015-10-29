@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: High in Fiber
+hide_location: true
 ---
 
 [Jon Rowe](http://twitter.com/JonRowe) will be giving a talk called High in Fiber, about [Ruby Fibers](http://ruby-doc.org/core-1.9/classes/Fiber.html), and how to apply them in asynchronous code.

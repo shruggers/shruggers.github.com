@@ -2,6 +2,7 @@
 title: Scottish Ruby Conference Retrospective
 layout: default
 categories: meetings
+hide_location: true
 ---
 
 ShRUG is going Scottish with a look at Scottish Ruby Conference. Like last year, we'll be doing short talks, rapid-firing through slides from the event and talking about interesting things we saw. Then off to a pub for a quiet, thoughtful retrospective of the conference (possibly over a whisky).

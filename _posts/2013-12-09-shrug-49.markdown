@@ -4,6 +4,8 @@ title: ShRUG festive meal
 categories: meetings
 time: 7pm to Late
 location: Ginseng Korean Restaurant
+show_addr: false
+show_link: false
 ---
 
 It's that time of the year again. Time to put the talks and workshops to

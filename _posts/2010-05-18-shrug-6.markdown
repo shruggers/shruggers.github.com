@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: First ShRUG meal
+hide_location: true
 ---
 
 The sixth meeting of ShRUG is at the Ethiocubano restaurant. We'll be in downstairs room for the first half, followed by a meal upstairs for anyone who wants to stay. There's a Wikipedia page on [Ethiopian cuisine](http://en.wikipedia.org/wiki/Ethiopian_cuisine) if you want to learn more. You can also look at [my scan](http://bit.ly/ethiocubano-menu) of the menu.
@@ -15,4 +16,3 @@ I (Ash) will be there from 6.00pm, but we'll probably move downstairs 6.30-7pm i
 ## Where to find us
 
 Ethiocubano restaurant is on Arundel Gate, not far from the bus station.
-

@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: HornetsEye Library
+hide_location: true
 ---
 
 ShRUG has its first presentation! Thanks to [Jan Wedekind](http://www.wedesoft.demon.co.uk/) of [Sheffield Hallam University](http://www.shu.ac.uk/research/meri/mmvl/) for doing a presentation on his [HornetsEye Library](http://www.wedesoft.demon.co.uk/hornetseye-api/files/HornetsEye-txt.html). Also, this is the first ShRUG to be held in the new GIST Lab.

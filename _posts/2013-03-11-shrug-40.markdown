@@ -3,7 +3,9 @@ layout: meetings
 title: Ruby Code Battle
 categories: meetings
 time: 7pm to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 This month we're holding a code battle. Write your player to solve a set problem and pit them against the other entrants. Pair up with someone else or work alone, the choice is yours! We'll reveal the problem on the night (and provide a base framework to write your player against) so you can't go researching strategies beforehand. In a similar way to a kata or dojo, hopefully this will be a good opportunity to test your Ruby skills in a way that you wouldn't on a day-to-day basis.

@@ -2,6 +2,8 @@
 layout: default
 categories: meetings
 title: First Meeting
+hide_location: true
+permalink: /meetings/shrug-1
 ---
 The first meeting of ShRUG is an informal pub meeting. About 8 of us regular Ruby types are already going. We're hoping to attract as many Ruby hackers in the area as possible. If you have an interest, come along to the meeting, and join in the discussion on the [mailing list](http://shrug.org/mailing-list).
 
@@ -16,4 +18,3 @@ The first meeting is at the Bath Hotel on Victoria Street, just off West Street,
 From the station or centre of town you can take the tram towards Middlewood or Malin Bridge and get off at either the West Street stop or the University of Sheffield stop.
 
 There are also a number of buses that run up and down West Street.
-

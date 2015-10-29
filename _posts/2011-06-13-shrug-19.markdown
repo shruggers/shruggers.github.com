@@ -4,6 +4,8 @@ title: Remote Pair Programming with Ruby and the Twitter streaming API
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
+show_link: false
+show_addr: false
 ---
 
 Quentin Wright will be giving a talk on remote pair programming using

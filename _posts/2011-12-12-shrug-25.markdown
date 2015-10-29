@@ -4,6 +4,8 @@ title: Christmas Meal
 categories: meetings
 time: 7pm to late
 location: Huiwei, West Street
+show_link: false
+show_addr: false
 ---
 
 
@@ -22,5 +24,3 @@ If you want to say hello before then you can catch us on
 Group](http://groups.google.com/group/shrug-members). Or, drop us
 an [email](mailto:hello@shrug.org) if you'll need help finding us
 on Monday. Hope to see you there!
-
-

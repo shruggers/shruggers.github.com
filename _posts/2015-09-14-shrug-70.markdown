@@ -6,6 +6,9 @@ categories: meetings
 time: 6.30 to 8.30pm
 meetup: 224577738
 published: true
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 ### Making music with Ruby and Sonic Pi

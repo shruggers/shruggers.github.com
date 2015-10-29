@@ -3,7 +3,9 @@ layout: meetings
 title: Messages queues don't need to be scary
 categories: meetings
 time: 6.30pm to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 October's meeting is a talk from [Glen
@@ -29,4 +31,3 @@ Join our [Google+
 event](https://plus.google.com/events/cf4dgmo0bh3bacrov15915rcras) to let us know you're coming.
 
 Someone will be around from 18.15 if you're around and we'll probably head out to the pub afterwards.
-

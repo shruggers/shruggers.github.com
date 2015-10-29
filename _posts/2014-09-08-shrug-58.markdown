@@ -3,7 +3,9 @@ layout: meetings
 title: Mini-hackathon and show & tell
 categories: meetings
 time: 6.30 to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 Missed out on [LeedsHack](http://leedshack.org/) or won't make [HackManchester](http://www.hackmanchester.com/)?

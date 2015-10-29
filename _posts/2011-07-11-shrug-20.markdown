@@ -4,6 +4,8 @@ title: Rails 3.1 and the asset pipeline
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
+show_link: false
+show_addr: false
 ---
 
 [Steve Hodgkiss](http://stevehodgkiss.com/) will be giving a talk at

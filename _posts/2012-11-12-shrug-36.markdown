@@ -4,6 +4,8 @@ title: Adventures in the hexagonal
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
+show_link: false
+show_addr: false
 ---
 
 This month’s ShRUG talk is from [Jon Rowe](http://jonrowe.co.uk/):

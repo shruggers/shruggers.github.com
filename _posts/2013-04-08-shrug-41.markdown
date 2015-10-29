@@ -3,7 +3,9 @@ layout: meetings
 title: Parsing for Fun & Profit
 categories: meetings
 time: 7pm to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
 This month Ash Moran will be running a talk & workshop called Parsing
@@ -22,7 +24,7 @@ Here are some simpler applications you might have seen:
 
 * syntax highlighting
 * calculating metrics (e.g. code complexity)
-* minifying code (popular with JavaScript) 
+* minifying code (popular with JavaScript)
 
 ## What will we see and do?
 
@@ -58,4 +60,3 @@ With the help of [epiGenesys](http://www.epigenesys.co.uk), we're at the
 Join our [Google+ event](https://plus.google.com/u/0/events/cii7479u0oauhvu1verm622h2tc) to let us know you're coming.
 
 Someone will be around from 18.45 if you're around and we'll probably head out for a drink afterwards.
-

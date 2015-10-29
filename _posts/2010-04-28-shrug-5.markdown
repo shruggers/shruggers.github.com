@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: Scottish Ruby Conf ShRUG
+hide_location: true
 ---
 
 The fifth meeting of ShRUG is at the Electric Works. Massive thanks to the new building manager Louise for letting us use a meeting room.

@@ -3,7 +3,9 @@ layout: meetings
 title: Summer social
 categories: meetings
 time: 6.30pm onwards
-location: The Red Deer, Pitt Street
+location: The Red Deer
+location_addr: Pitt Street
+show_link: false
 ---
 
 Summer's here and the weather's too nice to sit inside and do

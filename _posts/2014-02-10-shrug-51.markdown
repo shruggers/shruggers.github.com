@@ -4,6 +4,8 @@ title: Ruby social
 categories: meetings
 time: 6.30 to 8.30pm
 location: The Red Deer
+show_addr: false
+show_link: false
 ---
 This month will be a relaxed social event at [The Red
 Deer](http://www.red-deer-sheffield.co.uk/) (the usual post-meeting

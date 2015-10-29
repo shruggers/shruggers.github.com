@@ -3,25 +3,27 @@ layout: meetings
 title: Ruby Newby - Retro Style
 categories: meetings
 time: 6.30 to 8.30pm
-location: University of Sheffield Enterprise Zone, Portobello
+location: University of Sheffield Enterprise
+location_addr: 210 Portobello, S1 4AE
+location_link: https://maps.google.co.uk/maps?cid=3111695280195828660
 ---
 
-It's a coding trip back to the 80s as we look at using Ruby to play with Star Wars, top-trumps style! This is suitable 
-for complete coding beginners as well as developer Ruby newcomers. We're going to learn how to consume APIs, 
+It's a coding trip back to the 80s as we look at using Ruby to play with Star Wars, top-trumps style! This is suitable
+for complete coding beginners as well as developer Ruby newcomers. We're going to learn how to consume APIs,
 organise data and run scripts from the command line.
 
 
-Please come with [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and Git installed. 
+Please come with [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and Git installed.
 People will be on hand to help if you find this tricky.
 
-'Chad' is leading this session and we invite our usual Shruggers to be on hand on the day as well as students, 
+'Chad' is leading this session and we invite our usual Shruggers to be on hand on the day as well as students,
 developers from other languages and basically anyone who would want to learn (more) Ruby.
 
-'Chad' Gowler is a Ruby Developer at Yoomee, coming from a Python background; Is a volunteer at a local Code Club, 
-spends many weekends at tech conferences (also presenting/speaking) and is interested in exploring and 
+'Chad' Gowler is a Ruby Developer at Yoomee, coming from a Python background; Is a volunteer at a local Code Club,
+spends many weekends at tech conferences (also presenting/speaking) and is interested in exploring and
 challenging gender theory.
 
-With the help of [epiGenesys](http://www.epigenesys.org.uk/) we’re at the [Enterprise Zone](http://enterprise.shef.ac.uk/about-us) 
+With the help of [epiGenesys](http://www.epigenesys.org.uk/) we’re at the [Enterprise Zone](http://enterprise.shef.ac.uk/about-us)
 this month.
 
 Join our [Meetup](http://www.meetup.com/sheffieldrubyists/events/220110525/) to let us know you're coming.

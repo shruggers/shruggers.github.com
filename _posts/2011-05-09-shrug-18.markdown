@@ -4,6 +4,8 @@ title: ShRUG plays Golf!
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
+show_link: false
+show_addr: false
 ---
 
 In parallel with [LRUG](http://lrug.org), we'll be
@@ -26,4 +28,3 @@ So, bring your laptops and play along! You'll need Ruby and RSpec installed. We'
 If you're coming, please register for a ticket at our [Eventbrite
 page](http://bit.ly/shrug18). Someone will be around from 18.30 if
 you're around or need help setting up for the evening.
-

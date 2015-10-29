@@ -4,6 +4,8 @@ title: Sheffield Ruby Christmas Meal
 categories: meetings
 time: 19.00 to Late
 location: Anchorage Bar
+show_link: false
+show_addr: false
 ---
 
 It's that time of the year again. Time to put the talks and workshops to

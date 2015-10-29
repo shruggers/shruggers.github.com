@@ -4,12 +4,14 @@ title: 'RubyMotion: iOS development for Rubyists'
 categories: meetings
 time: 7pm to 9pm
 location: The GIST Lab
+show_link: false
+show_addr: false
 ---
 
 This month’s ShRUG talk is from [Luke Roberts](http://www.luke-roberts.info/):
 
 "If you're reading this you'll probably agree Ruby is a beautiful language but
-this has made us spoilt. 
+this has made us spoilt.
 
 Sometimes, having to work on different platforms in different languages
 can seem like a real chore.

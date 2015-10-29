@@ -2,6 +2,7 @@
 layout: default
 categories: meetings
 title: Sunny Start to Spring ShRUG
+hide_location: true
 ---
 
 The fourth meeting of ShRUG is again taking place in Mojo. It's becoming a habit...

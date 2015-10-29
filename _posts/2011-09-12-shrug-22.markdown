@@ -4,6 +4,8 @@ title: The What, Why and How of Node.js
 categories: meetings
 time: 7pm to 9pm
 location: The GIST lab
+show_link: false
+show_addr: false
 ---
 
 Summer's over and we're back to speakers at ShRUG.

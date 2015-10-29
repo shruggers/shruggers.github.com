@@ -4,6 +4,8 @@ title: ShRUG 3rd Birthday Social
 categories: meetings
 time: 7pm to 9pm
 location: The Rutland Arms
+show_link: false
+show_addr: false
 ---
 
 It's that time of year again and ShRUG is 3 years old! After the
