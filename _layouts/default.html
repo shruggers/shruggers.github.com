@@ -64,14 +64,14 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <meta content="article" property="og:type" />
   <meta content="{{ page.title }}" property="og:site_name" />
   <meta content="{{ page.title }}" name="twitter:title" />
-  <meta content="{{ page.excerpt }}" property="og:description" />
-  <meta content="{{ page.excerpt }}" name="twitter:description" />
+  <meta content="{{ page.excerpt | strip_html }}" property="og:description" />
+  <meta content="{{ page.excerpt | strip_html }}" name="twitter:description" />
 {% else %}
   <meta content="website" property="og:type" />
   <meta content="{{ site.title }}" property="og:site_name" />
   <meta content="{{ site.title }}" name="twitter:title" />
-  <meta content="{{ site.description }}" property="og:description" />
-  <meta content="{{ site.description }}" name="twitter:description"/>
+  <meta content="{{ site.description | strip_html }}" property="og:description" />
+  <meta content="{{ site.description | strip_html }}" name="twitter:description"/>
 {% endif %}
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
