@@ -5,6 +5,8 @@
   {% assign meeting_location = meeting_details.location %}
   {% assign meeting_link = meeting_details.location_link %}
   {% assign meeting_addr = meeting_details.location_addr %}
+  {% assign show_link = meeting_details.show_link %}
+  {% assign show_addr = meeting_details.show_addr %}
   {% capture location %}{% include meeting_location.html %}{% endcapture %}
   <dt>Location:</dt>
   <dd>{{ location | strip_newlines }}</dd>
