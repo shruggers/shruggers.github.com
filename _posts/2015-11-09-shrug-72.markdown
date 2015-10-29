@@ -5,7 +5,7 @@ excerpt: Are you a Mac Rubyist interested in video editing? Come learn about Mov
 categories: meetings
 time: 6.30 to 8.30pm
 meetup: 226393396
-published: false
+published: true
 ---
 
 ### Video editing for Mac Rubyists using MovingImages
