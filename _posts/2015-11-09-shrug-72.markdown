@@ -3,6 +3,7 @@ layout: meetings
 title: Video editing for Mac Rubyists using MovingImages
 excerpt: Are you a Mac Rubyist interested in video editing? Come learn about MovingImages
 categories: meetings
+date: 2015-11-09 18:30
 time: 6.30 to 8.30pm
 meetup: 226393396
 published: true
