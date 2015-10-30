@@ -1,6 +1,6 @@
 permalink: /:categories/:title
 default_location: Union St
-default_location_addr: 18-20 Union Street, Sheffield, S1 2JP
+default_location_addr: 18-20 Union Street, S1 2JP
 default_location_link: https://www.google.com/maps/place/Union+St/data=!4m2!3m1!1s0x4879828179fa0adb:0x2a244ff11d368331
 url: http://shrug.org
 title: Sheffield Ruby User Group
