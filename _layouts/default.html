@@ -76,11 +76,11 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <meta content="{{ site.description | strip_html }}" name="twitter:description"/>
 {% endif %}
 {% if page.url %}
-  <meta content="{{ site.url }}{{ page.url }}/" property="og:url">
-  <meta content="{{ site.url }}{{ page.url }}/" name="twitter:url" />
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  <meta content="{{ site.url }}{{ page.url }}" name="twitter:url" />
 {% else %}
-  <meta content="{{ site.url }}/" property="og:url" />
-  <meta content="{{ site.url }}/" name="twitter:url" />
+  <meta content="{{ site.url }}" property="og:url" />
+  <meta content="{{ site.url }}" name="twitter:url" />
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
