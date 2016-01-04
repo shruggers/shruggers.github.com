@@ -60,7 +60,8 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <meta content='@sheffieldruby' name="twitter:site" />
 {% if page.title %}
   <meta content="article" property="og:type" />
-  <meta content="{{ page.title }}" property="og:site_name" />
+  <meta content="{{ site.title }}" property="og:site_name" />
+  <meta content="{{ page.title }}" property="og:title" />
   <meta content="{{ page.title }}" name="twitter:title" />
   <meta content="{{ page.excerpt | strip_html }}" name="description" >
   <meta content="{{ page.excerpt | strip_html }}" property="og:description" />
@@ -68,6 +69,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% else %}
   <meta content="website" property="og:type" />
   <meta content="{{ site.title }}" property="og:site_name" />
+  <meta content="{{ site.title }}" property="og:title" />
   <meta content="{{ site.title }}" name="twitter:title" />
   <meta content="{{ site.description | strip_html }}" name="description" />
   <meta content="{{ site.description | strip_html }}" property="og:description" />
@@ -85,8 +87,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% endif %}
 {% if page.author %}
   <meta content="{{ page.author }}" property="article:author" />
-{% else %}
-  <meta content="" property="author" />
+  <meta content="{{ page.author }}" property="author" />
 {% endif %}
 {% if page.image %}
   <meta content="/img/srcset/{{ page.image }}" property="og:image" />
@@ -107,7 +108,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% endif %}
 
 <!-- http://t.co/y1jPVnT -->
-<link rel="canonical" href="{{ site.url }}/">
+<link rel="canonical" href="{{ site.url }}/index.html/">
 </head>
 
 <body class="clearfix">
