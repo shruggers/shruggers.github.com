@@ -2,7 +2,9 @@
 layout: meetings
 title: Lightning talks - New Year Version
 excerpt: Are you a Rubyist interested in giving a talk? 20 slides x 20 seconds each for good fun
+author: https://twitter.com/b_seven_e
 categories: meetings
+tags: [lightning talks, ruby, shruggers, community]
 date: 2016-01-11 18:30
 time: 6.30 to 8.30pm
 meetup: 227840241

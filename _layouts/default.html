@@ -74,21 +74,23 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <meta content="{{ site.description | strip_html }}" name="twitter:description"/>
 {% endif %}
 {% if page.url %}
-  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-  <meta content="{{ site.url }}{{ page.url }}" name="twitter:url" />
+  <meta content="{{ site.url }}{{ page.url }}/" property="og:url">
+  <meta content="{{ site.url }}{{ page.url }}/" name="twitter:url" />
 {% else %}
-  <meta content="{{ site.url }}" property="og:url" />
-  <meta content="{{ site.url }}" name="twitter:url" />
+  <meta content="{{ site.url }}/" property="og:url" />
+  <meta content="{{ site.url }}/" name="twitter:url" />
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
-  <meta content="{{ site.url }}/about/" property="article:author" />
+  {% if page.author %}
+    <meta content="{{ page.author }}" name="article:author" />
+  {% endif %}
 {% endif %}
 {% if page.image %}
   <meta content="/img/srcset/{{ page.image }}" property="og:image" />
   <meta content="/img/srcset/{{ page.image }}" name="twitter:image" />
 {% else %}
-  <meta content="{{ site.url }}/img/shrug-logo-transparent-rectangular.png" property="og:image" />
+  <meta content="{{ site.url }}/img/shrug-logo-square.png" property="og:image" />
   <meta content="{{ site.url }}/img/shrug-logo-square.png" name="twitter:image" />
 {% endif %}
 {% if page.categories %}
@@ -103,7 +105,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% endif %}
 
 <!-- http://t.co/y1jPVnT -->
-<link rel="canonical" href="/">
+<link rel="canonical" href="{{ site.url }}/">
 </head>
 
 <body class="clearfix">
