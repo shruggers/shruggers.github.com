@@ -1,0 +1,24 @@
+---
+layout: meetings
+title: Lightning talks - New Year Version
+excerpt: Are you a Rubyist interested in giving a talk? 20 slides x 20 seconds each for good fun
+categories: meetings
+date: 2016-01-11 18:30
+time: 6.30 to 8.30pm
+meetup: 227840241
+published: true
+---
+
+### Lightning talks - New Year Version
+
+Happy New Year, #shruggers. We haven't had a session of Lightning talks in a while and we are keen to know what awesome new things you are into. So why not let us know by following a 20 slides x 20 seconds each, format. It can be Ruby related, or not. There is no requirement to give a talk, but if you are interested in speaking, we can offer a safe environment.
+
+#### About our speakers
+
+We managed to recruit some of our #shruggers at the Christmas Meal, but please let us know (possibly even gauge some interest on our [#sheffieldruby Slack channel](https://sheffielddigital.slack.com/messages/sheffieldruby)) if you want to give a talk as we still have some slots available.
+
+#### About our venue
+
+Our meetup tonight will take place at our still newish venue, [Union St](http://www.union-st.org).
+
+After tonight's meetup, we'll be heading to the [Rutland Arms](http://www.therutlandarmssheffield.co.uk/) for drinks, food and chat.
