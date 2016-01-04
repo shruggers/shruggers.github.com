@@ -82,10 +82,11 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
-  {% if page.author %}
-    <meta content="{{ page.author }}" property="author" />
-    <meta content="{{ page.author }}" name="article:author" />
-  {% endif %}
+{% endif %}
+{% if page.author %}
+  <meta content="{{ page.author }}" property="article:author" />
+{% else %}
+  <meta content="" property="author" />
 {% endif %}
 {% if page.image %}
   <meta content="/img/srcset/{{ page.image }}" property="og:image" />
