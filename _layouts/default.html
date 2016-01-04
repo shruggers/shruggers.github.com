@@ -17,8 +17,6 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <meta charset="utf-8">
 
 <title>Sheffield Ruby User Group</title>
-<meta name="description" content="">
-<meta name="author" content="">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -64,12 +62,14 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <meta content="article" property="og:type" />
   <meta content="{{ page.title }}" property="og:site_name" />
   <meta content="{{ page.title }}" name="twitter:title" />
+  <meta content="{{ page.excerpt | strip_html }}" name="description" >
   <meta content="{{ page.excerpt | strip_html }}" property="og:description" />
   <meta content="{{ page.excerpt | strip_html }}" name="twitter:description" />
 {% else %}
   <meta content="website" property="og:type" />
   <meta content="{{ site.title }}" property="og:site_name" />
   <meta content="{{ site.title }}" name="twitter:title" />
+  <meta content="{{ site.description | strip_html }}" name="description" />
   <meta content="{{ site.description | strip_html }}" property="og:description" />
   <meta content="{{ site.description | strip_html }}" name="twitter:description"/>
 {% endif %}
@@ -83,6 +83,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
   {% if page.author %}
+    <meta content="{{ page.author }}" property="author" />
     <meta content="{{ page.author }}" name="article:author" />
   {% endif %}
 {% endif %}
