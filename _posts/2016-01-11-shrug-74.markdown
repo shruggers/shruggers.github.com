@@ -13,7 +13,11 @@ published: true
 
 ### Lightning talks - New Year Version
 
-Happy New Year, #shruggers. We haven't had a session of Lightning talks in a while and we are keen to know what awesome new things you are into. So why not let us know by following a 20 slides x 20 seconds each, format. It can be Ruby related, or not. There is no requirement to give a talk, but if you are interested in speaking, we can offer a safe environment.
+Happy New Year, #shruggers. We haven't had a session of Lightning talks in a while and we are keen to know what awesome new things you are into.
+
+Why not let us know in 20 slides (with only 21 seconds for each slide!)? It can be Ruby-related - or not. There is no requirement to give a talk, but if you are interested in speaking, we can offer a safe environment.
+
+Once you've talked, you've a few minutes for questions - so each speaker has about 10 minutes to talk and answer questions.
 
 #### About our speakers
 
