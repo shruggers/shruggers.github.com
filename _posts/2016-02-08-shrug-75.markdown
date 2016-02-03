@@ -1,8 +1,13 @@
 ---
 layout: meetings
 title: ShRUG in the pub
+excerpt: ShRUG is off to the pub for drinks and a chat about all things techie
+author: https://twitter.com/jamgregory
 categories: meetings
-time: 6.30 to 9.00pm
+tags: [ruby, shruggers, community]
+date: 2016-02-08 18:30
+time: 6.30 to 8.30pm
+published: true
 published: true
 location: Tap and Tankard
 location_addr: 24 Cambridge Street, S1 4HP
