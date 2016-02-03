@@ -8,7 +8,6 @@ tags: [ruby, shruggers, community]
 date: 2016-02-08 18:30
 time: 6.30 to 8.30pm
 published: true
-published: true
 location: Tap and Tankard
 location_addr: 24 Cambridge Street, S1 4HP
 location_link: https://www.google.co.uk/maps/place/Tap+and+Tankard/@53.3796735,-1.4723154,15z
