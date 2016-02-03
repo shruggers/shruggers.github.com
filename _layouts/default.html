@@ -128,8 +128,6 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
       {% endif %}
     {% endfor %}
     <h2>Next meeting:</h2>
-      <p>Site date: {{site_date}}</p>
-      <p>Meeting date: {{meeting_date}}</p>
     {% if next_meeting %}
       <h3><a href="{{next_meeting.url}}">{{next_meeting.title}}</a></h3>
       {% assign meeting_details = next_meeting %}
