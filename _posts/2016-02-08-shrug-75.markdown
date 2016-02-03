@@ -7,7 +7,6 @@ categories: meetings
 tags: [ruby, shruggers, community]
 date: 2016-02-08 18:30
 time: 6.30 to 8.30pm
-meetup: 227840241
 published: true
 location: Tap and Tankard
 location_addr: 24 Cambridge Street, S1 4HP
