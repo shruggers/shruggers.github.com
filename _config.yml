@@ -2,7 +2,7 @@ permalink: /:categories/:title
 default_location: Union St
 default_location_addr: 18-20 Union Street, S1 2JP
 default_location_link: https://www.google.com/maps/place/Union+St/data=!4m2!3m1!1s0x4879828179fa0adb:0x2a244ff11d368331
-url: http://shrug.org
+url: https://shrug.org
 title: Sheffield Ruby User Group
 description: Welcome to the Sheffield Ruby User Group site. We meet on the second Monday of each month to discuss and learn about Ruby, Rails and other interesting tech/web/programming stuff.
 include: .nojekyll
