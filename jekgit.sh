@@ -1,10 +1,13 @@
 #!/bin/bash
- 
+
+# Source:
+# https://drewsilcock.co.uk/custom-jekyll-plugins
+
 if [[ -z "$1" ]]; then
   echo "Please enter a git commit message"
   exit
 fi
- 
+
 jekyll build --future && \
   cd _site && \
   git add . && \
