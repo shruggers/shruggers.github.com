@@ -78,9 +78,11 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
   <meta content="{{ site.url }}{{ page.url }}" name="twitter:url" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% else %}
   <meta content="{{ site.url }}" property="og:url" />
   <meta content="{{ site.url }}" name="twitter:url" />
+  <link rel="canonical" href="{{ site.url }}">
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
@@ -105,9 +107,6 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
   <meta content="{{ tag }}" property="article:tag">
   {% endfor %}
 {% endif %}
-
-<!-- http://t.co/y1jPVnT -->
-<link rel="canonical" href="/">
 </head>
 
 <body class="clearfix">
