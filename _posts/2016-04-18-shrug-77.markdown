@@ -1,0 +1,30 @@
+---
+layout: meetings
+title: How to play at being a programmer
+excerpt: Developers being childish? That doesn't sound like something that would happen...
+author: https://twitter.com/jamgregory
+categories: meetings
+tags: [developers, childish, behaviour]
+date: 2016-04-18 18:30
+time: 6.30 to 8.00pm
+meetup: 230325077
+published: true
+---
+
+As programmers, we can be pretty childish. We play with code, imagine new projects and solutions and sometimes we even pretend that we know something we don't yet know. 
+
+In this talk, join me on a journey through the lessons of childhood. We'll revisit how to play nice, try our best and always tell the truth, but more importantly, we'll look at some of the things children don't have to learn, like how to see the world with fresh eyes. In an age when children are learning to be programmers, let's learn together how to be children, and how this can help us all to get better at what we do.
+
+Please bring along a laptop with a recent(ish) version of Ruby as some audience participation may be required!
+
+_Not this side of the Pennines on Monday? [Andrew is also talking at NWRUG on Thursday.](http://nwrug.org/events/april-2016-how-to-play-at-being-a-programmer)_
+
+#### About our speaker
+
+[Andrew](https://twitter.com/MarmiteJunction) is a Ruby developer, speaker, musician and kidney donor working in Surrey, England. His background includes a music degree, 5 years of radio presenting/production and panel game hosting and a long history of combining code and music to explore the artistic capabilities of programming. His professional experience includes a lot of integration with large legacy databases.
+
+#### About our venue
+
+Our meetup tonight will take place at our venue, [Union St](http://www.union-st.org).
+
+After tonight's meetup, we'll be heading to the [Rutland Arms](http://www.therutlandarmssheffield.co.uk/) for drinks, food and chat.
