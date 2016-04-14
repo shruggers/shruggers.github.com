@@ -5,4 +5,4 @@ default_location_link: https://www.google.com/maps/place/Union+St/data=!4m2!3m1!
 url: https://shrug.org
 title: Sheffield Ruby User Group
 description: Welcome to the Sheffield Ruby User Group site. We meet on the second Monday of each month to discuss and learn about Ruby, Rails and other interesting tech/web/programming stuff.
-include: .nojekyll
+include: ['.nojekyll']
