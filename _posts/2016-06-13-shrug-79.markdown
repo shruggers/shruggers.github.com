@@ -9,6 +9,9 @@ date: 2016-06-13 18:00
 time: 6.00 to 9.00pm
 meetup: 231534571
 published: true
+location: The Shakespeare and The Riverside
+location_addr: Kelham Island, Sheffield
+location_link: https://goo.gl/maps/7ZFPySZr3e92
 ---
 
 As is tradition, we are having our summer social this month.
