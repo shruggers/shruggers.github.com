@@ -1,0 +1,18 @@
+---
+layout: meetings
+title: Sheffield Ruby in the (Beer) Garden
+excerpt: Come along for some Ruby chat in the garden
+author: https://twitter.com/b_seven_e
+categories: meetings
+tags: [ruby, community, chat]
+date: 2016-06-13 18:00
+time: 6.00 to 9.00pm
+meetup: 231534571
+published: true
+---
+
+As is tradition, we are having our summer social this month.
+
+Based on suggestions from our [#sheffieldruby Slack channel](https://sheffielddigital.slack.com/messages/sheffieldruby) the #shruggers have decided that we will go to [The Shakespeare](http://www.shakespeares-sheffield.co.uk/) from 6pm. But the fun won't stop there, we are thinking of going for food at [The Riverside](http://www.riversidesheffield.co.uk/) later in the evening.
+
+We’ll be booking a table, so be sure to let us know that you’re coming (for a drink, for dinner or both) so we have confirmed numbers.
